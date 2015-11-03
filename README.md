@@ -15,3 +15,5 @@ Hi, Welcome to my Tech spot. Here, I'll share knowledge and experience about cut
     * [webpack](http://webpack.github.io/)
     * [glup](http://gulpjs.com/)
     * [grunt](http://grunt.com)
+* frameworks
+    * [Angular](https://angularjs.org/)

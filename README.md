@@ -1,6 +1,7 @@
 # Modern Computer Programming
 
-Hi, Welcome to my Tech spot. Here, I'll share knowledge and experience about cutting-edge web technologies 
+Hi, Welcome to my Tech spot. Here, I'll share knowledge and experience about cutting-edge web technologies.
+
 * Web Foundations
     * [CSS](./css/css.md)
     * [HTML](./html/html.md)
@@ -30,5 +31,6 @@ Hi, Welcome to my Tech spot. Here, I'll share knowledge and experience about cut
     * Application Architecture
         * MVC
         * MVVC
+        * M,V,C,X,what the hell is that?
     * Data Communication
         * [Falcor](http://netflix.github.io/falcor/)

@@ -35,7 +35,7 @@ Based on Object-Oriented designing. Here are basics building blocks a complete w
 * **[Template]** which occupies a certain area for conveying intented meaning.
 * **[Skin]** which is a crucial step when we want to customize its looking.
 * **[Behaviors]** components may response to user interaction, like click, hover, mousedown, mouseup, summit, etc.
-* **[Properties]** what attributes I have.
+* **[Properties]** what attributes It may have.
 * **[State]** Web Component may have some changing states 
 * **[Actions]** Web component can emit some specific actions for business purposes.
 

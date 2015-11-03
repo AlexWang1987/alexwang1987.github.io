@@ -39,5 +39,4 @@ Based on Object-Oriented designing. Here are basics building blocks a complete w
 * **[State]** Web Component may have some changing states 
 * **[Actions]** Web component can emit some specific actions for business purposes.
 
-
-
+**Web Component** is best solution to manage and reuse our yields.

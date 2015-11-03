@@ -5,6 +5,7 @@ Hi, Welcome to my Tech spot. Here, I'll share knowledge and experience about cut
     * [CSS](./css/css.md)
     * [HTML](./html/html.md)
     * [Javascript](./javascript/javascript.md)
+        * [ES6](http://exploringjs.com/es6/)
 * Web Graphics
     * [SVG](./svg/svg.md)
     * [WebGL](./webgl/webgl.md)

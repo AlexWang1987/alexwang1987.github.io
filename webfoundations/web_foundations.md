@@ -7,14 +7,12 @@ Here is a typical working flow how we build a web user interface. In login.html 
 ```
 <button id='loginBtn'>Log In</button>
 ```
-And then, we put on some clothes for button named "loginBtn' in theme.css:
-```
+And then, we put on "some clothes" for then button named "loginBtn' in theme.css:
+```css
 #loginBtn{
     border-radius:5px;
     background-color:#CCC;
 }
 ```
-
-
 
 

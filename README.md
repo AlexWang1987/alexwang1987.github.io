@@ -17,3 +17,9 @@ Hi, Welcome to my Tech spot. Here, I'll share knowledge and experience about cut
     * [grunt](http://grunt.com)
 * frameworks
     * [Angular](https://angularjs.org/)
+    * [Backbone](http://backbonejs.org)
+    * [React](https://facebook.github.io/react)
+* architecture
+    * GUI(template,skin,behavior,state,action)
+        * [React-Bootstrap](http://react-bootstrap.github.io)
+        * [React-Amazing](http://amazeui.org/react/)

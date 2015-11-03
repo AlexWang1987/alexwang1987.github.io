@@ -16,12 +16,15 @@ Hi, Welcome to my Tech spot. Here, I'll share knowledge and experience about cut
     * [webpack](http://webpack.github.io/)
     * [glup](http://gulpjs.com/)
     * [grunt](http://grunt.com)
-* frameworks
+* Frameworks
     * [Angular](https://angularjs.org/)
     * [Backbone](http://backbonejs.org)
     * [React](https://facebook.github.io/react)
-* architecture
-    * GUI(template,skin,behavior,state,action)
+* Architecture
+    * Routing System
+        * [Angular-router](https://github.com/angular-ui/ui-router)
+        * [React-router](https://github.com/rackt/react-router)
+    * Composable Component (Template construction,skinning,Behavior Wrapping,State Transition,Business Action)
         * [React-Bootstrap](http://react-bootstrap.github.io)
         * [React-Amazing](http://amazeui.org/react/)
     * Application Architecture

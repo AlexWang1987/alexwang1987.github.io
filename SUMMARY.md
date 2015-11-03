@@ -21,7 +21,7 @@
    * [Angular](https:/angularjs.org/)
    * [Backbone](http:/backbonejs.org)
    * [React](https:/facebook.github.io/react)
-* Architecture
+* [Architecture](architecture/architecture.md)
    * Routing System
        * [Angular-router](https:/github.com/angular-ui/ui-router)
        * [React-router](https:/github.com/rackt/react-router)

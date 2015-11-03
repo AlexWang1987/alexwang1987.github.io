@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Foundations](webfoundations/web_foundations.md)
-   * [CSS](css/css.md)
+   * [CSS](foundations/css/css.md)
    * [HTML](html/html.md)
    * [Javascript](javascript/javascript.md)
        * [ES6](http:/exploringjs.com/es6/)

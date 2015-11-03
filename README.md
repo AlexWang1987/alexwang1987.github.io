@@ -32,5 +32,7 @@ Hi, Welcome to my Tech spot. Here, I'll share knowledge and experience about cut
         * MVC
         * MVVC
         * M,V,C,X,what the hell is that?
-    * Data Communication
+    * Data Exchanging
         * [Falcor](http://netflix.github.io/falcor/)
+        * 
+        * 

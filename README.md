@@ -1,4 +1,4 @@
-# Introduction
+# Modern Computer Programming
 
 Hi, Welcome to my Tech spot. Here, I'll share knowledge and experience about cutting-edge web technologies 
 * Web Foundations
@@ -24,3 +24,8 @@ Hi, Welcome to my Tech spot. Here, I'll share knowledge and experience about cut
     * GUI(template,skin,behavior,state,action)
         * [React-Bootstrap](http://react-bootstrap.github.io)
         * [React-Amazing](http://amazeui.org/react/)
+    * Application Architecture
+        * MVC
+        * MVVC
+    * Data Communication
+        * [Falcor](http://netflix.github.io/falcor/)

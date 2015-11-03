@@ -7,7 +7,7 @@
    * [Javascript](javascript/javascript.md)
        * [ES6](http:/exploringjs.com/es6/)
    * [Flash](flash/flash.md)
-* Web Graphics
+* [Web Graphics](webgraphics/web_graphics.md)
    * [SVG](svg/svg.md)
    * [WebGL](webgl/webgl.md)
 * Web Media

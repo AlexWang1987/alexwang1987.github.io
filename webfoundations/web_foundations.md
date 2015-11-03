@@ -32,7 +32,12 @@ Web components should be independable with specific purposes. and most important
 
 Based on Object-Oriented designing. Here are basics building blocks a complete web component should have.
 
-* [Template] which occupies a certain area for conveying intented meaning.
-* [Skin] which is a crucial step when we want to customize its looking.
-* [Behaviors] components may response to user interaction, like click, hover, mousedown, mouseup, summit, etc.
+* **[Template]** which occupies a certain area for conveying intented meaning.
+* **[Skin]** which is a crucial step when we want to customize its looking.
+* **[Behaviors]** components may response to user interaction, like click, hover, mousedown, mouseup, summit, etc.
+* **[Properties]** what attributes I have.
+* **[State]** Web Component may have some changing states 
+* **[Actions]** Web component can emit some specific actions for business purposes.
+
+
 

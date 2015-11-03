@@ -18,5 +18,5 @@ Lastly, we use javascript to handle all the DOM manipulation ,event handlers, us
 
 As we can see, All code are hardly reusable and working process seems too loose. As the project is getting more complex and complicated, All our code are falling into the hell.
 
-
+Web components should be independable with specific purposes.
 

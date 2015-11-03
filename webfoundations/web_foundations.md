@@ -16,5 +16,6 @@ And then, It's time to put on "some clothes" for the button in theme.css and glu
 ```
 Lastly, we use javascript to handle all the DOM manipulation ,event handlers, user interactions etc..
 
-As we can see, All code are hardly reusable and working process seems too loose, as the project is getting more complex and complicated.
+As we can see, All code are hardly reusable and working process seems too loose, as the project is getting more complex and complicated, All our code are falling into the hell.
+
 

@@ -7,6 +7,7 @@ Hi, Welcome to my Tech spot. Here, I'll share knowledge and experience about cut
     * [HTML](./html/html.md)
     * [Javascript](./javascript/javascript.md)
         * [ES6](http://exploringjs.com/es6/)
+    * [Flash](./flash/flash.md)
 * Web Graphics
     * [SVG](./svg/svg.md)
     * [WebGL](./webgl/webgl.md)
@@ -35,4 +36,7 @@ Hi, Welcome to my Tech spot. Here, I'll share knowledge and experience about cut
     * Data Exchanging
         * [Falcor](http://netflix.github.io/falcor/)
         * 
-        * 
+    * State Managing and Tracking
+        * [Redux](http://redux.js.org/)
+        * [Immutable](http://facebook.github.io/immutable-js/)
+        

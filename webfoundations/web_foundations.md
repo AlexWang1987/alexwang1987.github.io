@@ -7,12 +7,12 @@ Here is a typical working flow how we build a web user interface. In login.html 
 ```html
 <button id='loginBtn'>Log In</button>
 ```
-And then, It's time to put on "some clothes" for the button named "loginBtn' in theme.css:
+And then, It's time to put on "some clothes" for the button in theme.css and glue the css file on the main html:
 ```css
 #loginBtn{
     border-radius:5px;
     background-color:#CCC;
 }
 ```
-
+Lastly, we use javascript to handle all the DOM manipulation ,event handlers, user interactions.
 

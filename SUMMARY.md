@@ -4,7 +4,7 @@
 * [Foundations](webfoundations/web_foundations.md)
    * [CSS](css/css.md)
    * [HTML](html/html.md)
-   * [Javascript](javascript/javascriptmd.md)
+   * [Javascript](javascript/javascript.md)
        * [ES6](http:/exploringjs.com/es6/)
    * [Flash](flash/flash.md)
 * [Graphics](webgraphics/web_graphics.md)

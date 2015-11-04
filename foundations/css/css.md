@@ -116,6 +116,7 @@ The priority is creasing. Author styles attributes can override its other source
 * **all** means the styles are appropriate for all devices.
 * **screen** intended for computer screens.
 * **print** these styles may be used for printing.
-* **...** other output devices.
+* **...** other output devices type.
+
 #### Media conditional Expression
 

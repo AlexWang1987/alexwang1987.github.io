@@ -17,7 +17,7 @@ In CSS world, There are infinite style attributes. you should think of every Ski
     > Display maybe one of most important attributes, because it defines what mode the render will use. It will affect itself behavior and its children including its color, font, or layout maybe. **inline** and **block** are most commonly used, besides that, **grid**, **inline-block**,**flex**,**table** are also used often.
         
     * [none] (escaping rendering process)
-        The element is completely gone.
+        > The element is completely gone.
     * [Inline] ( a special visual mode)
         > The elements applied this mode can be comfortable with others siblings in the same line.
 

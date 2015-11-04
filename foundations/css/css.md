@@ -117,8 +117,11 @@ The priority is creasing. Author styles attributes can override its other source
 * **screen** intended for computer screens.
 * **print** these styles may be used for printing.
 * **...** other output devices type.
+
 #### Media conditional Expression 
 * width
 * height
 * aspect-ratio
-* .... many many
+* .... [many more](http://dev.w3.org/csswg/mediaqueries/#mq-features)
+
+When these conditional expression are matched 

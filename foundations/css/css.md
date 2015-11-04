@@ -52,6 +52,9 @@ In CSS world, There are infinite style attributes. you should think of every Ski
     > Its difference contrasting with `display=none` is that you can't see it, but it is there indeed, just white space.
 
 * box-shadow
+* font
+* color
+* text | line
 
 ### what it looks like of Tree-like nested things?
 

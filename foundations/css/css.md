@@ -94,7 +94,7 @@ XML is naturally a tree structure.
     }
 }
 ```
-they are all tree-base structures. In CSS world, all children can inherit style attributes from its ancestors.
+They are all tree-base structures. In CSS world, all children can inherit style attributes from its ancestors. But in web component building process, we sometimes don't want our components to be changable or influenced by other styles.
 
 ### what is exactly cascading way?
 

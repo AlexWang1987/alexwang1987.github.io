@@ -25,9 +25,16 @@ In CSS world, There are infinite style attributes. you should think of every Ski
         > you can think of it as better Box Model introduced in CSS3. best appropriate for different devices and screens. A flex container expands items to fill available free space or squeeze them to prevent overflow. and It's suit for components of applications.
     * grid, inline-block, inline-flex,list-item,table, etc. So, all skinning elements can be divided  into two categories: inline-level elements or block-level elements.
 
-* position (how to position element);
-    * static (stand at **flow** position of its parent).
-    
+* position (how to position element, collaborating with left| top| right| bottom.);
+    * static 
+        >stand at **flow** position of its parent.
+    * relative     
+        >set a offset related to its flow position.
+    * absolute
+        > The parent don't need to allocate any space for it. the element position itself related to its closest positioned ancestor. 
+    * fixed
+        > a similar positioning behavior comparing 'absolute' method, but its related to current window, without any effects when scrolling.
+
 ### what it looks like of Tree-like nested things?
 
 

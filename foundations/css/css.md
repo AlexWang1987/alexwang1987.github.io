@@ -9,11 +9,22 @@
 In a sentence:
 > CSS adds **style attributes** to **tree-like nested components** in a **cascading way** on different **medias**.
 
-Now, The question is that how many types of style attributes the CSS can manipulate.
+### How many types of CSS Style Sheet Attributes
+
+In CSS world, There are infinite style attributes. you should think of every Skinning Target as a box. Style types are finite. The first one is:
+
+* display
 
 * CSS Box Model ( one of core modules of CSS)
 > You can think of every web component as a box. Its attributes used for visual formatting.
 * Flexible Box(another of core modules of CSS3)
 > you can think of it as better Box Model introduced in CSS3. best appropriate for different devices and screens. A flex container expands items to fill available free space or squeeze them to prevent overflow. and It's suit for components of applications.
 
+### what it looks like of Tree-like nested things
+
+
+### what is exactly cascading way?
+
+
+### how many medias we many bump into.
 

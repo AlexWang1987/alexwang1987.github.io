@@ -7,5 +7,8 @@
 > CSS is a stylesheet language used to *skin* the presentation of the **Structured Elements** ( also known as **HTML** or **XML based** languages, such as SVG,XHTML) on various medias(paper ,speech, screen etc).
 
 In a sentence:
-> CSS adds **style attributes** to nested components in a **cascading way**.
+> CSS adds **style attributes** to **tree-like nested components** in a **cascading way** on different **medias**.
 
+Now, The question is that how many types of style attributes the CSS can manipulate.
+
+* 

@@ -124,4 +124,10 @@ The priority is creasing. Author styles attributes can override its other source
 * aspect-ratio
 * .... [many more](http://dev.w3.org/csswg/mediaqueries/#mq-features)
 
-When these conditional expression are matched 
+When these conditional expression are matched, the websites'skin can automatically changed.
+
+
+
+
+
+

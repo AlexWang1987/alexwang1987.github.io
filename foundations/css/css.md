@@ -171,8 +171,13 @@ and som other important At-rules
 All kinds of At-rule are using to extend CSS's functionalities for this multi-devices and complex using environment.
 
 Now, we are now at most important part: 
+
 ###Skining
 
+#### Basic Selectors
+#### Combined Selectors
+#### Pseudo-elements
+#### Pseudo-class
 
 
 

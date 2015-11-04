@@ -165,6 +165,8 @@ and som other important At-rules
 * @charset "GBK";//to indicate current stylesheet's encoding.
 * @font-face{font-family: "familyID"; src:url("external font url.woff")} // to load external font resources.
 * @keframes identifier {} // authoring keyframe style animation.
+* @support expression
+* etc..
 
 
 

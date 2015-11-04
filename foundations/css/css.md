@@ -14,7 +14,9 @@ In a sentence:
 In CSS world, There are infinite style attributes. you should think of every Skinning Target as a box. Style types are finite. The first one is:
 
 * display
-    > Display maybe one of most important attributes, because it defines what mode the render will use. It will affect itself behavior and its children including its color, font, or layout maybe. **inline** and **block** are most commonly used, besides that, **grid**, **inline-block**,**flex**,**table** are also used often. 
+    > Display maybe one of most important attributes, because it defines what mode the render will use. It will affect itself behavior and its children including its color, font, or layout maybe. **inline** and **block** are most commonly used, besides that, **grid**, **inline-block**,**flex**,**table** are also used often.
+
+    * Inline ( a special layout mode)
 
     * CSS Box Model ( one of core modules of CSS)
         > You can think of every web component as a box. Its attributes used for visual formatting.

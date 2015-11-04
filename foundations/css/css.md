@@ -11,4 +11,6 @@ In a sentence:
 
 Now, The question is that how many types of style attributes the CSS can manipulate.
 
+* CSS Box Model ( one of core modules of CSS)
+> You can think of every web component as a box.
 * 

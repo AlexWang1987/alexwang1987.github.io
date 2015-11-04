@@ -124,6 +124,12 @@ The priority is creasing. Author styles attributes can override its other source
 * aspect-ratio
 * .... [many more](http://dev.w3.org/csswg/mediaqueries/#mq-features)
 
+There are some logical operators: and 
+```css
+@media (min-width: 640px) and (orientation: landscape) { ... }
+@media speech and (min-width: 960px) and (orientation: landscape) { ...  }
+```
+
 #### MediaQuery = MediaType + some Media Conditional Express
 
 Which controls when styles to be applied. When these conditional expression are matched, the website's skin can automatically changed with same content.

@@ -60,6 +60,7 @@ In CSS world, There are infinite style attributes. you should think of every Ski
 * line-height [just for block-level elements]
 * vertical-align [ just for inline-level elements]
 * text-align [ just for inline-level elements]
+
 ### what it looks like of Tree-like nested things?
 
 

@@ -130,7 +130,6 @@ There are some logical operators: and ,(or) not
 @media speech and (min-width: 960px) and (orientation: landscape) { ...  }
 @media (min-width: 960px), projection and (orientation: landscape) { ... }
 @media not all and (adobetv) { ... } /*except adobetv*/
-
 ```
 
 #### MediaQuery = MediaType + some Media Conditional Express

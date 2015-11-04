@@ -36,7 +36,7 @@ In CSS world, There are infinite style attributes. you should think of every Ski
         > The parent don't need to allocate any space for it. the element position itself related to its closest positioned ancestor. 
     * fixed (jump out of normal flow position completely)
         > a similar positioning behavior comparing 'absolute' method, but its related to current window, without any effects when scrolling.
-        > last positioning methods escape the normal flow, sometimes, it maybe cover other normal elements. Here,~z-index~ can help to specify the z axis.
+        > last positioning methods escape the normal flow, sometimes, it maybe cover other normal elements. Here,`z-index` can help to specify the z axis.
 
 * float (jump out of normal flow position, stay at left or right side)
     > others elements could fill into the extra space as it can be. (if they want to start a new line to layout. `clear:both|left|right` will be helpful.

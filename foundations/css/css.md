@@ -47,8 +47,8 @@ In CSS world, There are infinite style attributes. you should think of every Ski
 * border
     > 
 * padding
-* width / height
-    represent only its content's demension.
+* width / height / min/max width/height
+    > represent only its content's dimension.
 
 ### what it looks like of Tree-like nested things?
 

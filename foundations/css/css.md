@@ -134,12 +134,14 @@ Which controls when styles to be applied. When these conditional expression are 
 ```
 
 ```css
-@media (orientation:portrait) and (max-width:640px) 
-{
-  .siderbar{
-    display:none
-  }
-}
+<style>
+    @media (orientation:portrait) and (max-width:640px) 
+    {
+      .siderbar{
+        display:none
+      }
+    }
+</style>
 ```
 
 

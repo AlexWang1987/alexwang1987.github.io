@@ -16,11 +16,12 @@ In CSS world, There are infinite style attributes. you should think of every Ski
 * display
     > Display maybe one of most important attributes, because it defines what mode the render will use. It will affect itself behavior and its children including its color, font, or layout maybe. **inline** and **block** are most commonly used, besides that, **grid**, **inline-block**,**flex**,**table** are also used often.
 
-    * Inline ( a special layout mode)
+    * [Inline] ( a special visual mode)
+        > The elements applied this mode can be comfortable with others siblings in the same line.
 
-    * CSS Box Model ( one of core modules of CSS)
+    * [block] CSS Box Model ( one of core modules of CSS)
         > You can think of every web component as a box. Its attributes used for visual formatting.
-    * Flexible Box(another of core modules of CSS3)
+    * [flex] Flexible Box(another of core modules of CSS3)
         > you can think of it as better Box Model introduced in CSS3. best appropriate for different devices and screens. A flex container expands items to fill available free space or squeeze them to prevent overflow. and It's suit for components of applications.
 
 ### what it looks like of Tree-like nested things?

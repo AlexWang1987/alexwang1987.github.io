@@ -160,6 +160,11 @@ Which controls when styles to be applied. When these conditional expression are 
 @import "common.css" screen, projection;
 @import url('portrait.css') screen and (orientation:portrait);
 ```
+and som other important At-rules
+
+* @charset "GBK";//to indicate current stylesheet's encoding.
+* @font-face{font-family: "familyID"; src:url("external font url.woff")} // to load external font resources.
+* @keframes identifier {} // authoring keyframe style animation.
 
 
 

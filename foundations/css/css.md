@@ -125,6 +125,7 @@ The priority is creasing. Author styles attributes can override its other source
 * .... [many more](http://dev.w3.org/csswg/mediaqueries/#mq-features)
 
 #### MediaQuery = MediaType + some Media Conditional Express
+
 Which controls when styles to be applied. When these conditional expression are matched, the website's skin can automatically changed with same content.
 [MediaQueries](http://dev.w3.org/csswg/mediaqueries)
 

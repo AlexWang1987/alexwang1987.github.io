@@ -48,7 +48,7 @@ In CSS world, There are infinite style attributes. you should think of every Ski
     > 
 * padding
 * width / height / min/max width/height
-    > represent only its content's dimension.
+    > represent only its content's dimension. if its content overflows `overflow=auto|scroll|hidden|visible` can help us constrict its visible area.
 
 ### what it looks like of Tree-like nested things?
 

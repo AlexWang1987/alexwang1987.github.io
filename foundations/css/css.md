@@ -111,20 +111,29 @@ The priority is creasing. Author styles attributes can override its other source
 
 ### How many medias we many bump into?
 
-#### MediaTypes [MediaQueries](http://dev.w3.org/csswg/mediaqueries)
+#### MediaTypes
 
 * **all** means the styles are appropriate for all devices.
 * **screen** intended for computer screens.
 * **print** these styles may be used for printing.
 * **...** other output devices type.
 
-#### Media conditional Expression 
+#### Media Conditional Expression (Evaluated to be false or true)
 * width
 * height
 * aspect-ratio
 * .... [many more](http://dev.w3.org/csswg/mediaqueries/#mq-features)
 
-When these conditional expression are matched, the website's skin can automatically changed with same content.
+#### MediaQuery = MediaType + some Media Conditional Express
+Which controls when styles to be applied. When these conditional expression are matched, the website's skin can automatically changed with same content.
+[MediaQueries](http://dev.w3.org/csswg/mediaqueries)
+
+```css
+@media screen(orientation:portrait, max-width:1000px) 
+{
+  body { font-size: 13px }
+}
+```
 
 
 

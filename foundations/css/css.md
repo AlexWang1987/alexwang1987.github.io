@@ -62,8 +62,39 @@ In CSS world, There are infinite style attributes. you should think of every Ski
 * text-align [ just for inline-level elements]
 
 ### what it looks like of Tree-like nested things?
-
-
+XML is naturally a tree structure.
+```xml
+<personalInfo>
+    <name>AlexWang</name>
+    <address>Beijing In China</address>
+    <hobbies>
+        <item>painting</item>
+        <item>drawing</item>
+        <item>fishing</item>
+    </hobbies>
+</personalInfo>
+```
+```html
+<html>
+    <head></head>
+    <body></body>
+</html>
+```
+```JSON
+{
+    "persons":[
+        {
+            name:'alex01',
+            passwd:'xxxx'
+        },
+        {
+            name:'alex01',
+            passwd:'xxxx'
+        },
+    }
+}
+```
+they are all tree-base structures. In CSS world, all children can inherite style attributes from its ancestors.
 ### what is exactly cascading way?
 
 

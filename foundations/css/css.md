@@ -150,6 +150,16 @@ Which controls when styles to be applied. When these conditional expression are 
 </style>
 ```
 
+#### How to reuse our style sheets?
+
+* *@import url list_media_queries*
+```
+@import url("print.css") print;//used in printing.
+@import url("tv.css") projection, tv;//used in projection or tv
+@import 'global.css';//used all media types
+@import "common.css" screen, projection;
+@import url('portrait.css') screen and (orientation:portraite);
+```
 
 
 

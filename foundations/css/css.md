@@ -97,6 +97,17 @@ XML is naturally a tree structure.
 They are all tree-base structures roughly. In CSS world, all children can inherit style attributes from its ancestors. But in web component building process, we sometimes don't want our components to be changable or influenced by other styles. We should follow **Namespace Naming** conventions. I'll talk more details about it in my latter articles.
 
 ### What is exactly cascading way?
+Cascading is a foundation feature of CSS, It's just a algorithm used to determine the final style attributes of a specific element from many **style sources**.
+
+Sytle sources:
+
+* Browser inherent default styles.
+    > At early age of web, Different browsers have their unique some styles. which causes an unpredictable visual results in custom's browser. But it's getting better nowadays.
+* Users preferences.(chrome settings or firefox users font-size etc..)
+* Author styles which are linked to html
+
+The priority is creasing. Author styles attributes can override its other sources.
+
 
 
 ### How many medias we many bump into?

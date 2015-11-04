@@ -172,7 +172,7 @@ All kinds of At-rule are using to extend CSS's functionalities for this multi-de
 
 Now, we are now at most important part: 
 
-###Skining
+###Skining(Styling)
 
 #### Basic Selectors
 #### Combined Selectors

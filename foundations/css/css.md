@@ -38,6 +38,7 @@ In CSS world, There are infinite style attributes. you should think of every Ski
         > a similar positioning behavior comparing 'absolute' method, but its related to current window, without any effects when scrolling.
 
 * float (jump out of normal flow position, stay at left or right side)
+    > others elements could surround it.
     
 
 ### what it looks like of Tree-like nested things?

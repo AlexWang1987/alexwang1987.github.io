@@ -23,7 +23,7 @@ In CSS world, There are infinite style attributes. you should think of every Ski
         > You can think of every web component as a box. Its attributes used for visual formatting.
     * [flex] Flexible Box(another of core modules of CSS3)
         > you can think of it as better Box Model introduced in CSS3. best appropriate for different devices and screens. A flex container expands items to fill available free space or squeeze them to prevent overflow. and It's suit for components of applications.
-    * others mode
+    * grid, inline-block, inline-flex,list-item,table, etc.
 ### what it looks like of Tree-like nested things?
 
 

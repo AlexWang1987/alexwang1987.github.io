@@ -41,6 +41,15 @@ In CSS world, There are infinite style attributes. you should think of every Ski
 * float (jump out of normal flow position, stay at left or right side)
     > others elements could fill into the extra space as it can be. (if they want to start a new line to layout. `clear:both|left|right` will be helpful.
 
+* margin 
+    >( if there are no real content that exists in a block, margin collapsing may happen standing next to its siblings)
+     
+* border
+    > 
+* padding
+* width / height
+    represent only its content's demension.
+
 ### what it looks like of Tree-like nested things?
 
 

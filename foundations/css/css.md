@@ -55,6 +55,8 @@ In CSS world, There are infinite style attributes. you should think of every Ski
 * font font-size/family/style/weight
 * color[really should be call text-color]
     > red,green,blue.... #FFF #FFFFFF rgb(),rgba(),hls(),hlsa(),**transparent**
+* opacity
+    > to control the whole element's transparency.
 * line-height [just for block-level elements]
 * vertical-align [ just for inline-level elements]
 * text-align [ just for inline-level elements]

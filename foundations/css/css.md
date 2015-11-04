@@ -15,7 +15,9 @@ In CSS world, There are infinite style attributes. you should think of every Ski
 
 * display (Box Generation)
     > Display maybe one of most important attributes, because it defines what mode the render will use. It will affect itself behavior and its children including its color, font, or layout maybe. **inline** and **block** are most commonly used, besides that, **grid**, **inline-block**,**flex**,**table** are also used often.
-
+        
+    * [none] (escaping rendering process)
+        The element is completely gone.
     * [Inline] ( a special visual mode)
         > The elements applied this mode can be comfortable with others siblings in the same line.
 
@@ -26,14 +28,17 @@ In CSS world, There are infinite style attributes. you should think of every Ski
     * grid, inline-block, inline-flex,list-item,table, etc. So, all skinning elements can be divided  into two categories: inline-level elements or block-level elements.
 
 * position (how to position element, collaborating with left| top| right| bottom.);
-    * static (normal)
+    * static (in parental normal flow)
         >stand at **flow** position of its parent.
-    * relative     
+    * relative (jump out of normal flow position)     
         >set a offset related to its flow position.
-    * absolute
+    * absolute (jump out of normal flow position completely)
         > The parent don't need to allocate any space for it. the element position itself related to its closest positioned ancestor. 
-    * fixed
+    * fixed (jump out of normal flow position completely)
         > a similar positioning behavior comparing 'absolute' method, but its related to current window, without any effects when scrolling.
+
+* float (jump out of normal flow position, stay at left or right side)
+    
 
 ### what it looks like of Tree-like nested things?
 

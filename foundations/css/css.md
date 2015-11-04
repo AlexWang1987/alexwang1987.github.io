@@ -55,6 +55,8 @@ In CSS world, There are infinite style attributes. you should think of every Ski
 * font font-size/family/style/weight
 * color
 * text | line
+* line-height [just for block elements]
+* vertical-align [ just for inline elements]
 
 ### what it looks like of Tree-like nested things?
 

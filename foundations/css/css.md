@@ -109,6 +109,5 @@ Sytle sources:
 The priority is creasing. Author styles attributes can override its other sources. But if user-agent uses **!important** to lock the attributes, Author style still can not get its way. So, be careful when using **!important**.
 
 
-
 ### How many medias we many bump into?
 

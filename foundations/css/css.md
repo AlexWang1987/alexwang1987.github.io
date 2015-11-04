@@ -26,7 +26,7 @@ In CSS world, There are infinite style attributes. you should think of every Ski
     * grid, inline-block, inline-flex,list-item,table, etc. So, all skinning elements can be divided  into two categories: inline-level elements or block-level elements.
 
 * position (how to position element, collaborating with left| top| right| bottom.);
-    * static 
+    * static (normal)
         >stand at **flow** position of its parent.
     * relative     
         >set a offset related to its flow position.

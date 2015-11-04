@@ -14,11 +14,12 @@ In a sentence:
 In CSS world, There are infinite style attributes. you should think of every Skinning Target as a box. Style types are finite. The first one is:
 
 * display
+    > Display maybe one of most important attributes, because it defines what it looks like of skinning target and how it will affect its children including its color, font, or layout maybe. 
 
-* CSS Box Model ( one of core modules of CSS)
-> You can think of every web component as a box. Its attributes used for visual formatting.
-* Flexible Box(another of core modules of CSS3)
-> you can think of it as better Box Model introduced in CSS3. best appropriate for different devices and screens. A flex container expands items to fill available free space or squeeze them to prevent overflow. and It's suit for components of applications.
+    * CSS Box Model ( one of core modules of CSS)
+        > You can think of every web component as a box. Its attributes used for visual formatting.
+    * Flexible Box(another of core modules of CSS3)
+        > you can think of it as better Box Model introduced in CSS3. best appropriate for different devices and screens. A flex container expands items to fill available free space or squeeze them to prevent overflow. and It's suit for components of applications.
 
 ### what it looks like of Tree-like nested things?
 

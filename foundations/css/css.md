@@ -158,7 +158,7 @@ Which controls when styles to be applied. When these conditional expression are 
 @import url("tv.css") projection, tv;//used in projection or tv
 @import 'global.css';//used all media types
 @import "common.css" screen, projection;
-@import url('portrait.css') screen and (orientation:portraite);
+@import url('portrait.css') screen and (orientation:portrait);
 ```
 
 

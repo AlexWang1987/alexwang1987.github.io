@@ -106,7 +106,7 @@ Sytle sources:
 * Users preferences.(chrome settings or firefox users font-size etc..)
 * Author styles which are linked to html
 
-The priority is creasing. Author styles attributes can override its other sources.
+The priority is creasing. Author styles attributes can override its other sources. But if user-agent uses **!important** to lock the attributes, Author style still can not get its way. So, be careful when using **!important**.
 
 
 

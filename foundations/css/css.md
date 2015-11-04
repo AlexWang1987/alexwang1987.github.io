@@ -124,10 +124,13 @@ The priority is creasing. Author styles attributes can override its other source
 * aspect-ratio
 * .... [many more](http://dev.w3.org/csswg/mediaqueries/#mq-features)
 
-There are some logical operators: and 
+There are some logical operators: and ,(or) not 
 ```css
 @media (min-width: 640px) and (orientation: landscape) { ... }
 @media speech and (min-width: 960px) and (orientation: landscape) { ...  }
+@media (min-width: 960px), projection and (orientation: landscape) { ... }
+@media not all and (adobetv) { ... } /*except adobetv*/
+
 ```
 
 #### MediaQuery = MediaType + some Media Conditional Express

@@ -110,7 +110,8 @@ The priority is creasing. Author styles attributes can override its other source
 
 
 ### How many medias we many bump into?
-#### mediatypes
+
+#### Mediatypes
 
 * **all** means the styles are appropriate for all devices.
 * **screen** intended for computer screens.

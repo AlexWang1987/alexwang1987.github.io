@@ -127,12 +127,18 @@ The priority is creasing. Author styles attributes can override its other source
 #### MediaQuery = MediaType + some Media Conditional Express
 
 Which controls when styles to be applied. When these conditional expression are matched, the website's skin can automatically changed with same content.
-[MediaQueries](http://dev.w3.org/csswg/mediaqueries)
+[MediaQueries](http://dev.w3.org/csswg/mediaqueries). Here some usages:
+
+```html
+<link rel="stylesheet" media="(max-width: 960px)" href="800 optimized.css" />
+```
 
 ```css
-@media screen(orientation:portrait, max-width:1000px) 
+@media (orientation:portrait) and (max-width:640px) 
 {
-  body { font-size: 13px }
+  .siderbar{
+    display:none
+  }
 }
 ```
 

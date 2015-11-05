@@ -220,15 +220,15 @@ Adjacent selector (next-sibling selector)
 #### Pseudo-class
 Psedu-class is muck like media querying, the styles only be actived when the pseodu-class could be satisfied. That is to say, the styles much have some conditions
 
-```css
-div.menu li ul {
-  display: none;
-}
-
-div.menu li:hover > ul {
-  display: block;
-}
-```
+    ```css
+    div.menu li ul {
+      display: none;
+    }
+    
+    div.menu li:hover > ul {
+      display: block;
+    }
+    ```
 
 #### Pseudo-elements
 * ::after 

@@ -209,9 +209,7 @@ value-regx(^ $ * ~ | i/g/m.
 ```
 you can think of it as a *special attribute selector* aimed at class attribute. .classname === [class~=classname] 
 ```
-
-
-
+and selectors can be nested to consist of more complex selectors. 
 #### Combined Selectors
 
 #### Pseudo-elements

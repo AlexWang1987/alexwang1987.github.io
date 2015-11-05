@@ -211,7 +211,8 @@ you can think of it as a *special attribute selector* aimed at class attribute. 
 ```
 and selectors can be nested to consist of more complex selectors. 
 #### Combined Selectors
-
+Adjacent selector (next-sibling selector)
+`span + input{}` span's next sibling
 #### Pseudo-elements
 #### Pseudo-class
 

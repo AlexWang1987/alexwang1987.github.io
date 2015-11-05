@@ -240,7 +240,7 @@ Psedu-class is muck like media querying, the styles only be actived when the pse
 
 So, a valid selector could be combined:
 
-```[ns|][element][.classname | #id | attributes][:psudoclass][::psudoelement] {}```
+```[ns|][element][.classname | #id | [attributes][:psudoclass][::psudoelement] {}```
 
 [Complete Selector Specification](A complete list of selectors in the Selectors Level 3 specification.)
 

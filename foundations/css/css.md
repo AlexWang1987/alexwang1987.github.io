@@ -249,6 +249,6 @@ There is measure there is unit. Units makes numbers meaningful.
 #### Relative length units
 Font-relative lengths | Viewport-percentage lengths 
 #### Absolute length units (Absolute length units represents a physical measurement)
-like px(Relative to the viewing device), mm, cm(10mm), in(2.54cm),pt(1/72in),pc(12pt)
+like px(Relative to the viewing device,screen=1 device pixel , printer= 1/96 in), mm, cm(10mm), in(2.54cm),pt(1/72in),pc(12pt)
 
 

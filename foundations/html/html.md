@@ -4,7 +4,7 @@ HTML is only focusing on **information structure** and **sematics**. Here is a s
 
 *************
 <h1>Alien Was Caught!</h1>
-Big news, Just in this morning, A farmer found an alien in his backyard! The more exciting thing is that He caught it and put it into a cage.
+Big news, Just in this morning, A farmer found an alien in his backyard! The more exciting thing is that he caught it and put it into a cage.
 
 Published by AlexWang in 21st Jan 2015 Beijing,China
 *************

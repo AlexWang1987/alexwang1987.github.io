@@ -47,9 +47,10 @@ Block-level elements will occupy a whole newline within parental flow and drive 
 * id
 * title
 * class
-* style
-* hidden
-* data-* which used to exchange information between html and javascript
+* style 
+* hidden hidden elements when it is loaded.
+* data- which used to exchange information between html and javascript
+
 ```
 <element data-camel-cased-name/>
 

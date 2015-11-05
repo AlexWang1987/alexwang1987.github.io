@@ -198,7 +198,11 @@ It's too general and aggressive, it would be better to use it for more global th
 ```
 * ID Selector
 ```
-skdf
+ID selector is only used for a specific element, which is hard too reuse it. It's a good practice not use it in large project with may styles. 
+```
+* Attributes Selector
+```
+CSS is so powerful, you can use it filtering any elements you want basing on their attributes.
 ```
 
 

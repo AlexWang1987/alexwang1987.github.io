@@ -19,3 +19,4 @@ It's just a joke. The problem is how to markup the news appropriately.
     <address>Beijing, China</address>
 </article>
 ```
+It's well structured and more sematic.

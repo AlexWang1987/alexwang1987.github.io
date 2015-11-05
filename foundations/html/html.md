@@ -43,7 +43,7 @@ The most common element is `<div>` which is generally used to divide our documen
 
 Block-level elements will occupy a whole newline within parental flow and drive away others siblings. on the other hand, Inline-level ones are more conforming, aligned one by one from left to right.
 
-## Global Attributes
+## Global Attributes(basics)
 * id
 * title tooltip
 * class

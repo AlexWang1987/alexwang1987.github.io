@@ -195,14 +195,14 @@ Here's a xml-like element:`<element id class style attributes></element>`
     ```
 
 * Element Selector
-    >It's too general and aggressive, it would be better to use it for more global theme or like.
+    It's too general and aggressive, it would be better to     use it for more global theme or like.
+
 * 
 
 
 #### Combined Selectors
 #### Pseudo-elements
 #### Pseudo-class
-
 
 [Complete Selector Specification](A complete list of selectors in the Selectors Level 3 specification.)
 

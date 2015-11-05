@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [Foundations](webfoundations/web_foundations.md)
-   * [CSS](foundations/css/css.md)
    * [HTML](foundations/html/html.md)
+   * [CSS](foundations/css/css.md)
    * [Javascript](foundations/javascript/javascript.md)
    * [Flash](foundations/flash/flash.md)
 * [Graphics](webgraphics/web_graphics.md)

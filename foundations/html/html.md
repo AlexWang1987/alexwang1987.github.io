@@ -39,4 +39,4 @@ This is a dropdown 's skeleton:
 There are tons of **Sematic Markups** [Complete W3.org HTML5.1 Reference](http://www.w3.org/html/wg/drafts/).
 
 ## Block-level / Inline-level Element
-The most common element is `<div>` which is generally used to divide our document into smaller block areas containing children.
+The most common element is `<div>` which is generally used to divide our document into smaller block areas containing its own children.

@@ -180,19 +180,21 @@ Now, we are now at most important part:
 
 So, to make styles more reusable and composable, we have to reconstruct our style infrastructures in **Component-oriented Styling Designing** methods.
 
+Here's a xml-like element:`<element id class style attributes></element>`
+
 #### Basic Selectors
 * Universal Selector
-    > *(asterisk) matches any type. So, 
+    > *(asterisk) matches any element. So, 
 
-```css
-*.warning == .warning 
-*#siderbar === #siderbar
-namespace|* all element in namespace domain.
-*|* all elements
-|* all elements without any domain constraicton
-```
+    ```css
+    *.warning == .warning 
+    *#siderbar === #siderbar
+    namespace|* all element in namespace domain.
+    *|* all elements
+    |* all elements without any domain constraicton
+    ```
 
-* Type Selector
+* Element Selector
     >It's too general and aggressive, it would be better to use it for more global theme or like.
 * 
 

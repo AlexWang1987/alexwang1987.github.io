@@ -202,7 +202,7 @@ ID selector is only used for a specific element, which is hard too reuse it. It'
 ```
 * Attributes Selector
 ```
-CSS is so powerful, you can use it filtering any elements you want basing on their attributes.
+CSS is so powerful, you can use it filtering any elements you want basing on their attributes and their values.
 ```
 
 

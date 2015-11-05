@@ -19,7 +19,7 @@ It's just a joke. The problem is how to markup the news appropriately.
     <address>Beijing, China</address>
 </article>
 ```
-It's well structured and more sematic.
+It's well structured and more semantic.
 
 This is a dropdown 's skeleton:
 ```html

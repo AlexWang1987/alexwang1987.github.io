@@ -50,3 +50,8 @@ Block-level elements will occupy a whole newline within parental flow and drive 
 * style
 * hidden
 * data-* which used to exchange information between html and javascript
+```
+<element data-camel-cased-name/>
+
+element.dataset.camelCasedName 
+```

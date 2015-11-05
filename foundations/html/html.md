@@ -60,3 +60,5 @@ Block-level elements will occupy a whole newline within parental flow and drive 
 <!--javascript dom manipulation-->
 element.dataset.camelCasedName 
 ```
+
+Again, **Structure** and **Semantic**.

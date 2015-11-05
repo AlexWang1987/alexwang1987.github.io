@@ -217,6 +217,7 @@ Adjacent selector (next-sibling selector)
 `span > input{}` span's direct chidren.
 `span   input{}` span's descentdants
 [more details documentation](https://drafts.csswg.org/selectors-3/#general-sibling-combinators)
+
 #### Pseudo-elements
 
 #### Pseudo-class

@@ -183,7 +183,7 @@ So, to make styles more reusable and composable, we have to reconstruct our styl
 Here's a xml-like element:`<element id class style attributes></element>`
 
 #### Basic Selectors
-* Universal Selector *(asterisk) matches any element. So, 
+* Universal Selector   *(asterisk) matches any element. So, 
 
 ```css
 *.warning == .warning 

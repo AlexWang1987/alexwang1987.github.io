@@ -217,7 +217,8 @@ Adjacent selector (next-sibling selector)
 `span > input{}` span's direct chidren.
 `span   input{}` span's descentdants
 [more details documentation](https://drafts.csswg.org/selectors-3/#general-sibling-combinators)
-
+#### Pseudo-class
+Psedu-class is muck like media querying, the styles only be actived when the pseodu-class be satisfied.
 #### Pseudo-elements
 * ::after 
 >::after pseudo-element matches a virtual last child of the selected element. It is typically used to add cosmetic content to an element by using the content CSS property. 
@@ -225,7 +226,6 @@ Adjacent selector (next-sibling selector)
 * ::before
 * ::first-line
 * ::selection
-#### Pseudo-class
 
 So, a valid selector could be combined: `[ns|][element][.classname | #id | attributes][:psudoclass|psudoelement] {}`
 

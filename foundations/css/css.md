@@ -178,6 +178,8 @@ Now, we are now at most important part:
 * Active
     > The active method is like `Button{font-size:18px;background-color:red}`, which means all the Button in this document may all be effected in cascading way. It's too general and very hard to debug and track.
 
+So, to make styles more reusable and composable, we have to reconstruct our style infrastructures in **Component-oriented Styling Designing** methods.
+
 #### Basic Selectors
 
 

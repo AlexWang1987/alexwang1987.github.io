@@ -255,3 +255,21 @@ like px(Relative to the viewing device,screen=1 device pixel , printer= 1/96 in)
 
 ##Functional Notations
 
+```
+src:url(http://baidu.com/icon.png)
+rgb(225,200,0)
+rgba(225,100,100,0.5)
+calc(1rem - 1px)
+```
+
+
+
+
+
+
+
+
+
+
+
+

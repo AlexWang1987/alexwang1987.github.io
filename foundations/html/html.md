@@ -20,3 +20,17 @@ It's just a joke. The problem is how to markup the news appropriately.
 </article>
 ```
 It's well structured and more sematic.
+
+This is a dropdown 's skeleton:
+```html
+<DropdownButton>
+    <Button>Age?</Button>
+    <Menu>
+        <MenuItem>5</MenuItem>
+        <MenuItem>15</MenuItem>
+        <MenuItem>25</MenuItem>
+        <MenuItem>35</MenuItem>
+    </Menu>
+</DropdownButton>
+    
+```

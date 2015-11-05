@@ -42,3 +42,5 @@ There are tons of **Sematic Markups** [Complete W3.org HTML5.1 Reference](http:/
 The most common element is `<div>` which is generally used to divide our document into smaller block areas containing its own children.
 
 Block-level elements will occupy a whole newline within parental flow and drive away others siblings. on the other hand, Inline-level ones are more conforming, aligned one by one from left to right.
+
+

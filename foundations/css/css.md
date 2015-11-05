@@ -245,7 +245,7 @@ So, a valid selector could be combined:
 [Complete Selector Specification](A complete list of selectors in the Selectors Level 3 specification.)
 
 ### Style Units
-There is measure there is unit. Unit makes numbers meaningful.
+There is measure there is unit. Units makes numbers meaningful.
 
 
 

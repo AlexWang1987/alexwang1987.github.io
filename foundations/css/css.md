@@ -210,6 +210,7 @@ value-regx(^ $ * ~ | i/g/m.
 you can think of it as a *special attribute selector* aimed at class attribute. .classname === [class~=classname] 
 ```
 
+So, a valid selector could be combined: [ns|][element][.classname | #id] {}
 
 #### Combined Selectors
 #### Pseudo-elements

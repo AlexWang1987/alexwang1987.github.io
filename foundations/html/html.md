@@ -53,7 +53,9 @@ Block-level elements will occupy a whole newline within parental flow and drive 
 * tabindex
 
 ```
+<!--html data-definition-->
 <element data-camel-cased-name/>
 
+<!--javascript dom manipulation-->
 element.dataset.camelCasedName 
 ```

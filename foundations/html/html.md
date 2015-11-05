@@ -51,7 +51,8 @@ Block-level elements will occupy a whole newline within parental flow and drive 
 * hidden hidden elements when it is loaded.
 * data- which used to exchange information between html and javascript
 * tabindex
-* onevents(onmouseover)
+* onevents(onmouseover,onblur... all small cases)
+
 ```
 <!--html data-definition-->
 <element data-camel-cased-name/>

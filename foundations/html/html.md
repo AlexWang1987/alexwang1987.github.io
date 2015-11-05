@@ -45,7 +45,7 @@ Block-level elements will occupy a whole newline within parental flow and drive 
 
 ## Global Attributes
 * id
-* title
+* title tooltip
 * class
 * style 
 * hidden hidden elements when it is loaded.

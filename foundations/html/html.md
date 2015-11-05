@@ -6,9 +6,7 @@ HTML is only focusing on **information structure** and **sematics**. Here is a s
 <h1>Alien Was Caught!</h1>
 Big news, Just in this morning, A farmer found an alien in his backyard! The more exciting thing is that He caught it and put it into a cage.
 
-This is just a joke. How to markup it in HTML?
-
-Published by AlexWang in 21st Jan 2015
+Published by AlexWang in 21st Jan 2015 Beijing,China
 *************
 
 It's just a joke. The problem is how to markup the news appropriately.

@@ -221,7 +221,7 @@ Adjacent selector (next-sibling selector)
 #### Pseudo-elements
 * ::after 
 >::after pseudo-element matches a virtual last child of the selected element. It is typically used to add cosmetic content to an element by using the content CSS property. 
-
+{content: attr(data-descr)} or {content: 'add last text child'}
 * ::before
 * ::first-line
 * ::selection

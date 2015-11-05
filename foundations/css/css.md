@@ -184,21 +184,23 @@ Here's a xml-like element:`<element id class style attributes></element>`
 
 #### Basic Selectors
 * Universal Selector
-    > *(asterisk) matches any element. So, 
-
-    ```css
-    *.warning == .warning 
-    *#siderbar === #siderbar
-    namespace|* all element in namespace domain.
-    *|* all elements
-    |* all elements without any domain constraicton
-    ```
+> *(asterisk) matches any element. So, 
+```css
+*.warning == .warning 
+*#siderbar === #siderbar
+namespace|* all element in namespace domain.
+*|* all elements
+|* all elements without any domain constraicton
+```
 
 * Element Selector
-    ```    
-    It's too general and aggressive, it would be better to     use it for more global theme or like.
-    ```
-* 
+```
+It's too general and aggressive, it would be better to use it for more global theme or like.
+```
+* ID Selector
+```
+skdf
+```
 
 
 #### Combined Selectors

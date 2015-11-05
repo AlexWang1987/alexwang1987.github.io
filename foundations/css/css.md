@@ -207,7 +207,7 @@ value-regx(^ $ * ~ | i/g/m.
 ```
 * Class Selector
 ```
-you can think of it as a *special attribute selector* aimed at class attribute. 
+you can think of it as a *special attribute selector* aimed at class attribute. .classname === [class~=classname] 
 ```
 
 

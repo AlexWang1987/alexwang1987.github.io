@@ -205,7 +205,10 @@ ID selector is only used for a specific element, which is hard too reuse it. It'
 CSS is so powerful, you can use it filtering any elements you want basing on their attribute-existing and their 
 value-regx(^ $ * ~ | i/g/m.
 ```
-
+* Class Selector
+```
+you can think of it as a *special attribute selector* aimed at class attribute. 
+```
 
 
 #### Combined Selectors

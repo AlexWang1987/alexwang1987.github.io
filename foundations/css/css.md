@@ -248,5 +248,7 @@ So, a valid selector could be combined:
 There is measure there is unit. Units makes numbers meaningful.
 #### Relative length units
 Font-relative lengths | Viewport-percentage lengths 
-#### Absolute length units
+#### Absolute length units (Absolute length units represents a physical measurement)
+like px,mm, 
+
 

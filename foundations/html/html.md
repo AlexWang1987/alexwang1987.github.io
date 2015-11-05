@@ -33,8 +33,9 @@ This is a dropdown 's skeleton:
     </Menu>
 </DropdownButton>
 
-<!--Here we define our own Tags-->
+<!--Here we define our own Elements-->
 ```
 
-There are tons of **Sematic Markups** [Complete W3.org HTML5.1 Reference](http://www.w3.org/html/wg/drafts/)
+There are tons of **Sematic Markups** [Complete W3.org HTML5.1 Reference](http://www.w3.org/html/wg/drafts/).
 
+## Block-level / Inline-level Element

@@ -195,8 +195,9 @@ Here's a xml-like element:`<element id class style attributes></element>`
     ```
 
 * Element Selector
+    ```    
     It's too general and aggressive, it would be better to     use it for more global theme or like.
-
+    ```
 * 
 
 

@@ -173,8 +173,14 @@ All kinds of At-rule are using to extend CSS's functionalities for this multi-de
 Now, we are now at most important part: 
 
 ###Skining(Styling)
+* Passive
+    > What is passive or active stylesheets applying. For example,`<button class='button border-radius theme-primary'> </button>`, this is typical passive approach, the benefit is that we can specify what styles can be applied clearly and not easily be influenced. which is essential way for modern web component styling.
+* Active
+    > The active method is like `Button{font-size:18px;background-color:red}`, which means all the Button in this document may all be effected in a large scale. It's too general and too hard to debug and track.
 
 #### Basic Selectors
+
+
 #### Combined Selectors
 #### Pseudo-elements
 #### Pseudo-class

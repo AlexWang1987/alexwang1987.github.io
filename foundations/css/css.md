@@ -184,7 +184,8 @@ Here's a xml-like element:`<element id class style attributes></element>`
 
 #### Basic Selectors
 * Universal Selector
-> *(asterisk) matches any element. So, 
+  *(asterisk) matches any element. So, 
+
 ```css
 *.warning == .warning 
 *#siderbar === #siderbar

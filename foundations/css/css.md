@@ -218,7 +218,18 @@ Adjacent selector (next-sibling selector)
 `span   input{}` span's descentdants
 [more details documentation](https://drafts.csswg.org/selectors-3/#general-sibling-combinators)
 #### Pseudo-class
-Psedu-class is muck like media querying, the styles only be actived when the pseodu-class be satisfied.
+Psedu-class is muck like media querying, the styles only be actived when the pseodu-class could be satisfied. That is to say, the styles much have some conditions
+
+```css
+div.menu li ul {
+  display: none;
+}
+
+div.menu li:hover > ul {
+  display: block;
+}
+```
+
 #### Pseudo-elements
 * ::after 
 >::after pseudo-element matches a virtual last child of the selected element. It is typically used to add cosmetic content to an element by using the content CSS property. 

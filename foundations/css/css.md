@@ -212,8 +212,12 @@ you can think of it as a *special attribute selector* aimed at class attribute. 
 and selectors can be nested to consist of more complex selectors. 
 #### Combined Selectors
 Adjacent selector (next-sibling selector)
-`span + input{}` span's next sibling
+`span + input{}` span's adjacent sibling
+`span ~ input{}` span's next sibling
+`span > input{}` span's direct chidren.
+`span   input{}` span's descentdants
 #### Pseudo-elements
+
 #### Pseudo-class
 
 So, a valid selector could be combined: `[ns|][element][.classname | #id | attributes][:psudoclass|psudoelement] {}`

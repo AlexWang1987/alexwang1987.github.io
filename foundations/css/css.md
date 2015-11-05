@@ -217,7 +217,7 @@ you can think of it as a *special attribute selector* aimed at class attribute. 
 #### Pseudo-elements
 #### Pseudo-class
 
-So, a valid selector could be combined: [ns|][element][.classname | #id | attributes] {}
+So, a valid selector could be combined: `[ns|][element][.classname | #id | attributes][:psudoclass|psudoelement] {}`
 
 [Complete Selector Specification](A complete list of selectors in the Selectors Level 3 specification.)
 

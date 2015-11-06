@@ -13,7 +13,7 @@ function bootstrap()
 }
 
 //Traditional Way.
-bootstrap();
+bootstrap(param01);
 
 //Object-Oriented Way
 bootstrap.call(null,param01,param02);

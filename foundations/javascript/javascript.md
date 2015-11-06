@@ -106,17 +106,26 @@ Which is most powerful feature in Javascript and it's most difficult to grasp at
 ```javascript
 function cooking (ingredients)
 {
-    //functional scope
+    //functional scope A;
+    
     var pickupIngredients = function()
     {
+        //functional scope B chain-to-> A
         console.log(ingredients);
     };
     
     return pickupIngredients;
 }
 
-var pickupIngredients = cooking([tamato,brocoli]);
+var newReference = cooking([tamato,brocoli]);
 ```
+* cooking function executes and returns a function(pickupIngredients);
+* at last topic,I talked about scope chain. now `pickupIngredients` refer to its `scope A`. so, Even cooking is finished, it's scope object has not been collected. becuase its **reference counter** still lager than 1
+* 
+
+
+
+
 
 
 

@@ -64,10 +64,12 @@ One of benefits of **Script language** is that it does't need to precompile into
 step1();
 step2();
 step3();
-    
+
+var msg = 'step3 is running';
+
 function step3()
 {
-    console.log('step3');
+    console.log(msg);
 }
 
 function step2()

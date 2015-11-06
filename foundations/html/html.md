@@ -67,4 +67,4 @@ Again, **Structure** and **Semantic**.
 Dom provides a way to manipulate these tree-nested object, such as search,add,lelete and so on. It's a glue layer providing a way that javascript can handle it.
 
 ### Webkit
-Most popular **Layout** and **Drawing** engine that is widely used in HTML/CSS.
+Most popular **Layout** and **Rendering/Drawing** engine that is widely used in HTML/CSS.

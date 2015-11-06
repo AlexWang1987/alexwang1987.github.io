@@ -120,7 +120,7 @@ function cooking (ingredients)
 var newReference = cooking([tamato,brocoli]);
 ```
 * cooking function executes and returns a function(pickupIngredients);
-* at last topic,I talked about scope chain. now `pickupIngredients` refer to its `scope A`. so, Even cooking is finished, it's scope object has not been collected. becuase its **reference counter** still lager than 1
+* at last topic,I talked about scope chain. now `pickupIngredients` refer to its `scope A`. so, Even cooking is finished, it's scope object has not been collected. becuase its **reference counter** still lager than 0.
 * 
 
 

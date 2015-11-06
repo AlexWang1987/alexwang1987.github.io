@@ -20,3 +20,34 @@ bootstrap.call(null,param01,param02);
 //or
 bootstrap.apply(null,[param01,param02]);
 ```
+
+## How Javascript is getting constructed and bootstraped.
+When A piece code of JS loaded into Javascript Engine, here is what happens.
+
+```
+var name = 'alexwang';
+var city = 'beijing';
+var country = 'China';
+
+function composeEmail(name,city,country)
+{
+    var newMail = {
+        name : name,
+        city : city,
+        country: country,
+        date: new Date()
+    };
+    
+    return newMail;
+}
+
+function sendEmail(email)
+{
+    console.log('Email is being sent',email);
+}
+
+
+
+
+
+```

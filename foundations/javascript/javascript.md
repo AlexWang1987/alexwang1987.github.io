@@ -141,10 +141,12 @@ As I discussed above, every function execution will be attached a function scope
 In JS Engine, There are a event loop model, all function are driven by Event also known as `Event-Driven Programming`. All Events associated an function object line in the queue. When **stack** is empty, the first event in the queue gets invoked and until done. and next one, on and on. Here is an interesting demo:
 
 ```javascript
-setTimeout(function()
+setTimeout(function myturn()
 {
     console.log("It's my turn");
 },2000);
+
+//we understand that myturn will be invoked in 2s, but it is not guaranteed in extreme conditions.
 ```
 
 

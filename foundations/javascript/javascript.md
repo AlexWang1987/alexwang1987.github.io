@@ -99,7 +99,7 @@ function serveApple()
     }
 }
 ```
-
+See, Functional Scope Chain is very clear, In my scope, If I don't have just ask for it from parent and continue to its global scope. here is problem. if we not use `var`, the global context will be wholely mess.
 
 ## How Javascript is getting constructed and bootstraped.
 When A piece code of JS loaded into Javascript Engine, here is what happens.

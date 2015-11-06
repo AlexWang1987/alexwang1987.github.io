@@ -64,4 +64,4 @@ element.dataset.camelCasedName
 Again, **Structure** and **Semantic**.
 
 ### DOM
-Dom provides a way to manipulate these tree-nested object, such as search,add,lelete and so on. It's a glue layer providing a way that javascript can handle it. 
+Dom provides a way to manipulate these tree-nested object, such as search,add,lelete and so on. It's a glue layer providing a way that javascript can handle it.

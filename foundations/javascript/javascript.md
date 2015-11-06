@@ -138,7 +138,14 @@ In javascript world, everything you can think is object, and all codes are organ
 As I discussed above, every function execution will be attached a function scope(execution enviroment), all local properties are throwed into heap, where varibles are created , consumed and collected quickly.
 
 ### Queue / Event Loop
-In JS Engine, There are a event loop model, all function are driven by Event also known as `Event-Driven Programming`. All Events associated an function object line in the queue. When **stack** is empty, the first event in the queue gets invoked and until done. and next one, on and on.
+In JS Engine, There are a event loop model, all function are driven by Event also known as `Event-Driven Programming`. All Events associated an function object line in the queue. When **stack** is empty, the first event in the queue gets invoked and until done. and next one, on and on. Here is an interesting demo:
+
+```javascript
+setTimeout(function()
+{
+    console.log("It's my turn");
+},2000);
+```
 
 
 ## How Javascript is getting constructed and bootstraped.

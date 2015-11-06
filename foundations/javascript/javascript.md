@@ -22,7 +22,7 @@ bootstrap.apply(null,[param01,param02]);
 ```
 
 ### What is **Functional Scope**.
-Now, we know that a function is just a special object, it can be normally called and it has its attributes and behaviors. when It's invoked no matter which way, Firstly, **Functional Scope Object** is created. It's just a normal object, all local varibles and functions are associalted to it. when this exceution is completed, normally, the functional scope will be collected by garbage collector a little while later. but there is an exception, will talk about it latter.
+Now, we know that a function is just a special object, it can be normally called and it has its attributes and behaviors. when It's invoked no matter which way, Firstly, **Functional Scope Object** is created. It's just a normal **hidden** object, all local varibles and functions are associalted to it. when this exceution is done(return), normally, this functional scope will be collected by garbage collector a little while later. **but** there is an exception, I'll talk about it latter.
 
 
 ## How Javascript is getting constructed and bootstraped.

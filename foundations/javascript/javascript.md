@@ -137,6 +137,8 @@ In javascript world, everything you can think is object, and all codes are organ
 ### Heap.
 As I discussed above, every function execution will be attached a function scope(execution enviroment), all local properties are throwed into heap, where varibles are created , consumed and collected quickly.
 
+
+
 ## How Javascript is getting constructed and bootstraped.
 When A piece code of JS loaded into Javascript Engine, here is what happens.
 

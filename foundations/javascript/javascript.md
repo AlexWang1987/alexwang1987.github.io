@@ -149,7 +149,7 @@ setTimeout(function myturn()
 //we understand that myturn will be invoked in 2s, but it is not guaranteed in extreme conditions. 2s latter, it may stand at last position of the queue. and wait to be called and executed.
 ```
 
-Event loop model is never block, pretty proper for concurrence and `Event-Driven programming` in back-end environment.
+Event loop model is never block, pretty proper for `concurrence` and `Event-Driven programming` in back-end environment. like `nodejs platform`.
 
 ## How Javascript is getting constructed and bootstraped.
 When A piece code of JS loaded into Javascript Engine, here is what happens.

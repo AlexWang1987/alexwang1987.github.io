@@ -130,6 +130,8 @@ In this demo `newReference` will set at 'window' object. Scope A never be releas
 
 V8 is a very polular engine which is heart for [Nodejs](www.nodejs.org) and [Chrome](https://www.google.com/chrome);
 
+
+
 ## How Javascript is getting constructed and bootstraped.
 When A piece code of JS loaded into Javascript Engine, here is what happens.
 

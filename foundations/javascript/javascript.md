@@ -6,3 +6,17 @@ As all we know, Front-end is getting more and more complex. Javascript is playin
 
 The `function` in javascript is quite different from other stricted languages like java or c++. In essence, `function` in javascript is an `object` and can be `callable`, that's where `call` and `apply` comes in. we can also `invoke` it in traditional way using `()` expression.
 
+```javascript
+function bootstrap()
+{
+    console.log('It is bootstraping');
+}
+
+//Traditional way.
+bootstrap();
+
+//Object-oriented way
+bootstrap.call(null,param01,param02);
+//or
+bootstrap.apply(null,[param01,param02]);
+```

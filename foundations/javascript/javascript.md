@@ -47,6 +47,7 @@ function peelApple(apple)
 ### Function Scope Chain
 
 
+
 ## How Javascript is getting constructed and bootstraped.
 When A piece code of JS loaded into Javascript Engine, here is what happens.
 

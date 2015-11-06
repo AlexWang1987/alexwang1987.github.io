@@ -131,7 +131,7 @@ In this demo `newReference` will set at 'window' object. Scope A never be releas
 V8 is a very polular engine which is heart for [Nodejs](www.nodejs.org) and [Chrome](https://www.google.com/chrome);
 Here is a clear explanation [https://www.youtube.com/watch?v=8aGhZQkoFbQ],but I'll describe it simply.
 
-In javascript, All codes are organized in functions.
+In javascript world, everything you can think is object, and all codes are organized in functions. So application is running by function invoking functions and so on.
 
 
 

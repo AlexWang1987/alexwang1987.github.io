@@ -57,6 +57,6 @@ var result = sendEmail(newEmail);
 console.log('Error or Done' + result);
 
 ```
-One of benefits of **Script language** is that it does't need to precompile into machine code. It is all dynamic. There generally are two step: **Interpretation** and **Excecution**. The duty of interpretation is Object-Building process. when this javascript file is loaded it'll be evaled with **global scope**. and **magic** happens. First, **Original Code** then is interpred. all internal functions will created recursively and include **local var declaration**
+One of benefits of **Script language** is that it does't need to precompile into machine code. It is all dynamic. There generally are two step: **Interpretation** and **Excecution**. The duty of interpretation is Object-Building process. when this javascript file is loaded it'll be evaled with **global scope**. and **magic** happens. First, **Original Code** then is interpred. all internal functions will created recursively and include **local var declaration**, **excecutable code** can be actually executed.
 
 

@@ -122,7 +122,7 @@ var newReference = cooking([tamato,brocoli]);
 * cooking function executes and returns a function(pickupIngredients);
 * at last topic,I talked about scope chain. now `pickupIngredients` refer to its `scope A`. so, Even cooking is finished, it's scope object has not been collected. becuase its **reference counter** still lager than 0.
 * the benefit is that we can preserve **execution context** and restore it at appropriate time. This is exactly the base requirement for **asychronious programming**. Simply speaking, we need to machanism to restore preview execution context after a asychronous callback.
-* the bigest problem is memory leaking. if we attach closures to gloal object,`referece counter > 0` ,they will never be swipe out of memory.
+* the bigest problem is memory leaking. if we attach closures to gloal object,`referece counter > 0` ,they will never be swiped out of memory.
 
 
 

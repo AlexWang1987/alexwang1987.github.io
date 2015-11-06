@@ -99,7 +99,7 @@ function serveApple()
     }
 }
 ```
-See, Functional Scope Chain is very clear, In my scope, If I don't have just ask for it from parent and continue to its global scope. Here is problem. if we do't use `var`, the global context will be wholly mess.
+See, Functional Scope Chain is very clear, In my scope, If I don't have just ask for it from parent and continue to its global scope. Here is problem. if we do't use `var`, the global context will be wholly mess. In ES6 we have `let` and `const` keyword that help us declare our varible more accurately
 
 ## How Javascript is getting constructed and bootstraped.
 When A piece code of JS loaded into Javascript Engine, here is what happens.

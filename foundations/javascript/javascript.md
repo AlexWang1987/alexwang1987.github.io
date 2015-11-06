@@ -124,7 +124,7 @@ var newReference = cooking([tamato,brocoli]);
 * the benefit is that we can preserve **execution context** and restore it at appropriate time. This is exactly the base requirement for **asychronious programming**. Simply speaking, we need to machanism to restore preview execution context after a asychronous callback.
 * the bigest problem is memory leaking. if we attach closures to gloal object,`referece counter > 0` ,they will never be swiped out of memory.
 
-In this demo `newReference` will set at 'window' object. Scope A never be released. Scope B can access its parental scope anytime.
+In this demo `newReference` will set at 'window' object. Scope A never be released. Scope B can access its parental scope anytime. So, 'Asychonious Programming` is widely used in javascript engine.
 
 
 

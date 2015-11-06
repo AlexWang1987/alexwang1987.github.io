@@ -4,4 +4,4 @@ As all we know, Front-end is getting more and more complex. Javascript is playin
 
 ## What is the function in javascirpt.
 
-The `function` in javascript is quite different from other stricted languages like java or c++. In essence, `function` in javascript is an `object` and can be `callable`, that's where `call` and `apply` comes in.
+The `function` in javascript is quite different from other stricted languages like java or c++. In essence, `function` in javascript is an `object` and can be `callable`, that's where `call` and `apply` comes in. we can also `invoke` it in traditional way using `()` expression.

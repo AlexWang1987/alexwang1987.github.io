@@ -21,6 +21,10 @@ bootstrap.call(null,param01,param02);
 bootstrap.apply(null,[param01,param02]);
 ```
 
+### What is **Functional Scope**.
+
+
+
 ## How Javascript is getting constructed and bootstraped.
 When A piece code of JS loaded into Javascript Engine, here is what happens.
 

@@ -57,6 +57,10 @@ function serveApple()
     function washApple()
     {
         //functional scope: B = {} --chinTo--> A
+        
+        washStepDone = true;
+        
+        console.log('washStepdone');
     }
     
     //A = {washStepDone,washApple,sliceApple}

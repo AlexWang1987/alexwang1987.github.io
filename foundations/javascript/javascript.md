@@ -23,6 +23,26 @@ bootstrap.apply(null,[param01,param02]);
 
 ### What is **Functional Scope**.
 Now, we know that a function is just a special object, it can be normally called and it has its attributes and behaviors. when It's invoked no matter which way, Firstly, **Functional Scope Object** is created. It's just a normal **hidden** object, all local varibles and functions are associalted to it. when this exceution is done(return), normally, this functional scope will be collected by garbage collector a little while later. **but** there is an exception, I'll talk about it latter. That's to say, when we invoke the function a function scope will be born(**Object Memory Allocation**) and it's recalled(**Object Memory Collection** when the function ends. It really makes sense from point of view of Memory Usage.
+```
+function peelApple(apple)
+{
+    //funtional scope created: {apple}
+    
+    //set local varible {apple,knife}
+    var knife = true,
+    
+    //get scope varible
+    console.log('peeling processing',apple);
+    
+    //local varible {apple,knife,done}
+    var done = true
+    
+    //not local varible, what!!! what will happen? we probably know it will set at ancestors scope. why is that? see next topic.
+    greate = true;
+    
+    return // functional scope will be destroyed by garbage collector normall, BUT!!!, there is an exception.
+}
+```
 
 ### 
 

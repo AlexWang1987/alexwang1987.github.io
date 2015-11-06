@@ -146,7 +146,7 @@ setTimeout(function myturn()
     console.log("It's my turn");
 },2000);
 
-//we understand that myturn will be invoked in 2s, but it is not guaranteed in extreme conditions.
+//we understand that myturn will be invoked in 2s, but it is not guaranteed in extreme conditions. 2s latter, it may stand at last position of the queue. and wait to be called and executed.
 ```
 
 

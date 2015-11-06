@@ -12,10 +12,10 @@ function bootstrap()
     console.log('It is bootstraping');
 }
 
-//Traditional way.
+//Traditional Way.
 bootstrap();
 
-//Object-Oriented way
+//Object-Oriented Way
 bootstrap.call(null,param01,param02);
 //or
 bootstrap.apply(null,[param01,param02]);

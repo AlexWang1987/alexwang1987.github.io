@@ -1,3 +1,3 @@
 # Javascript Core Concepts
 
-As all we know, Front-end is getting more and more complex. Javascript is playing an important role in FE development. more news features have been added, the newest one is [ES6](http://exploringjs.com/es6/), and many proposals will be standardized in ES7. Javascript is extensively used in many areas, native,web,back-end, desktop development, etc.
+As all we know, Front-end is getting more and more complex. Javascript is playing an important role in FE development. More news features have been added, the newest one is [ES6](http://exploringjs.com/es6/), and many proposals will be standardized in ES7. Javascript is extensively used in many areas, native,web,back-end, desktop development, etc. It all credits its simplicity and flexibility.

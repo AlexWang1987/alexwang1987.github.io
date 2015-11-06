@@ -126,7 +126,7 @@ var newReference = cooking([tamato,brocoli]);
 
 In this demo `newReference` will set at 'window' object. Scope A never be released. Scope B can access its parental scope anytime. So, 'Asychonious Programming` is widely used in javascript engine, let's take more deeper.
 
-## Javascript Engine (V8)
+## Javascript Engine (V8) Loop Event, Stack, Heap
 
 V8 is a very polular engine which is heart for [Nodejs](www.nodejs.org) and [Chrome](https://www.google.com/chrome);
 

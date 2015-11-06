@@ -80,7 +80,8 @@ function serveApple()
     function serving()
     {
         //function scope D = {} --chinaTo-->A
-        sliceApple();
+        
+        console.log('serving process');
     }
     
     

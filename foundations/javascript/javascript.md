@@ -131,10 +131,11 @@ In this demo `newReference` will set at 'window' object. Scope A never be releas
 V8 is a very polular engine which is heart for [Nodejs](www.nodejs.org) and [Chrome](https://www.google.com/chrome);
 Here is a clear explanation [https://www.youtube.com/watch?v=8aGhZQkoFbQ],but I'll describe it simply.
 
-### Function Stack(or Frame)
+### Stack
 In javascript world, everything you can think is object, and all codes are organized in functions. So application is running by functions invoking functions and so on. which form a stack similar to Array. when a function is called, it is insert into the top of stack and executed, it can return removing out of the stack or invoke others function on and on. The number of functions of the stack is dynamic, what's the maximum, it's not constant, different js engine has different limitations, Here is my chrome in OSX 10.10 x64 `max call stack = 15565`, still pretty big.
 
-
+### Heap.
+As I discussed above, every function execution will be attached a function scope(execution enviroment), all local properties are throwed into heap, where varibles are created , consumed and collected quickly.
 
 ## How Javascript is getting constructed and bootstraped.
 When A piece code of JS loaded into Javascript Engine, here is what happens.

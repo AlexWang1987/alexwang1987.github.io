@@ -68,6 +68,7 @@ function serveApple()
     //A = {washStepDone,washApple,sliceApple,slideAppleDone}
     var slideAppleDown = false;
     
+    //A = {washStepDone,washApple,sliceApple,slideAppleDone,serving}
     function serving()
     {
         //function scope D = {} --chinaTo-->A

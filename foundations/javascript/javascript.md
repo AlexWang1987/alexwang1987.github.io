@@ -46,7 +46,48 @@ function peelApple(apple)
 
 ### Function Scope Chain
 
-That is way may teacher told you: Using `var` to declare you varible or it'll be dropped to its ancestors traversely.
+That is way may teacher told you: Using `var` to declare you varible or it'll be dropped to its ancestors traversely. And under the hood, **Function Scope Chain** works. here is a demo:
+```
+function serveApple()
+{
+    //functional scope: A = {washStepDone}
+    var washStepDone = false;
+    
+    //A = {washStepDone,washApple}
+    function washApple()
+    {
+        //functional scope: B = {} --chinTo--> A
+    }
+    
+    //A = {washStepDone,washApple,sliceApple}
+    function sliceApple()
+    {
+        //functional scope C = {} --chinaTo--> A
+    }
+    
+    //A = {washStepDone,washApple,sliceApple,slideAppleDone}
+    var slideAppleDown = false;
+    
+    function serving()
+    {
+        //function scope D = {} --chinaTo-->A
+        sliceApple();
+    }
+    
+    
+    washApple();
+    
+    if(washStepDone)
+    {
+        sliceApple();
+        
+        if(slideAppleDown)
+        {
+            serving();
+        }
+    }
+}
+```
 
 
 ## How Javascript is getting constructed and bootstraped.

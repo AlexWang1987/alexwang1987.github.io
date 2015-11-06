@@ -129,7 +129,9 @@ In this demo `newReference` will set at 'window' object. Scope A never be releas
 ## Javascript Engine (V8) Event Loop, Stack, Heap
 
 V8 is a very polular engine which is heart for [Nodejs](www.nodejs.org) and [Chrome](https://www.google.com/chrome);
-Here is a clear explanation [https://www.youtube.com/watch?v=8aGhZQkoFbQ]
+Here is a clear explanation [https://www.youtube.com/watch?v=8aGhZQkoFbQ],but I'll describe it simply.
+
+
 
 
 

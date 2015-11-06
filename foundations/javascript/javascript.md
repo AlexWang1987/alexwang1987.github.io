@@ -67,6 +67,10 @@ function serveApple()
     function sliceApple()
     {
         //functional scope C = {} --chinaTo--> A
+        
+        sliceAppleDown = true;
+        
+        consle.log('sliceAppleDown');
     }
     
     //A = {washStepDone,washApple,sliceApple,slideAppleDone}

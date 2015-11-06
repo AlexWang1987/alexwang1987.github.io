@@ -47,7 +47,8 @@ function peelApple(apple)
 ### Function Scope Chain
 
 That is way may teacher told you: Using `var` to declare you varible or it'll be dropped to its ancestors traversely. And under the hood, **Function Scope Chain** works. here is a demo:
-```
+
+```javascript
 function serveApple()
 {
     //functional scope: A = {washStepDone}

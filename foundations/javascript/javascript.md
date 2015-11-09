@@ -281,7 +281,7 @@ In OOP world, objects are often created by `new` operator, and all objects inher
     person_01.shareMethod();//alexwang
     person_02.shareMethod();//alexwang
 ```
-So, all objects created by some constructor share same prototype, its location is at its constructor's prototype property. and It is fundamentally different from other OOP languages.
+So, all objects created by some constructor share same prototype, its location is at its constructor's prototype property. and It is fundamentally different from other OOP languages. of couse, we can use `Object.crate`to specify its prototype. which is very flexible.
 
 
 

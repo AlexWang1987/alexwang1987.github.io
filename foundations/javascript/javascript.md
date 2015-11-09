@@ -228,6 +228,7 @@ function Global()
     
     1. undefined : undefined //Exist, but has never been initialized.
     2. object
+        2. number
     
     object:
     1.Number

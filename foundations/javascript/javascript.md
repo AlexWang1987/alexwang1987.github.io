@@ -246,7 +246,7 @@ function Global()
 
 ## Object Prototype Chain
 In essence, in any language designing, we need a machanism to reuse our code.
-In javascript world all values of variables are object, but there are different ways to create them. Interestingly,Differenct objects from different origins share the same code. how does it happen `prototype`, For example.
+In javascript world all values of variables are object, but there are different ways to create them. Interestingly,Differenct objects from different origins share the same code. how does it happen `prototype`, we can consider it as `Sharing libaray`, For example.
 
 ``` javascript
 var mynameFromliterals = 'alexwang'; // typeof myname == 'string'

@@ -220,11 +220,16 @@ In the Global Cotext, here are core objects and values, which are building block
 ```javascript
 function Global()
 {
-    //Data types
-    undefined : undefined // Exsistence
+
+//->Data types
     
-    //-------------------------------------
-    object: //
+    // Exsistence Type
+    0. throw Error('Error type') //Does not exist;
+    
+    1. undefined : undefined // Exist, but has never been initialized.
+    2. object
+    
+    object:
     1.Number
         * global varibles: NaN Infinity 
     

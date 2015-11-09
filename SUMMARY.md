@@ -22,7 +22,7 @@
    * [Backbone](http:/backbonejs.org)
    * [React](https:/facebook.github.io/react)
 * [Architecture](architecture/architecture.md)
-   * Routing System
+   * [Routing System](architecture/routing_system.md)
        * [Angular-router](https:/github.com/angular-ui/ui-router)
        * [React-router](https:/github.com/rackt/react-router)
    * Composable Component (Template construction,skinning,Behavior Wrapping,State Transition,Business Action)

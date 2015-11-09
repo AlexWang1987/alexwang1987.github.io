@@ -233,7 +233,9 @@ function Global()
     2.1 `undefined`: has only one value of `undefined`. Exist, but has never been initialized.
     2.2 `object`: which is the most usefull data structure in may OOP languages like java, C++, etc. it's like a *hash map*, in javascript, its attributes can be added or deleted dynamically. here are some more dedicated purposes and specific objects.
     
-    * number you can believe that any value which can be a number or not number(`NaN`). if it's a number which can be divided into many concrete types. like `Infinity, -Infinity`
+    * null: you can think of it a special value of object. garbage colletor can collect those values.
+    
+    * number: You can believe that any value which can be a number or not number(`NaN`). if it's a number which can be divided into many concrete types. like `Infinity, -Infinity, `
 
 object:
 1.Number

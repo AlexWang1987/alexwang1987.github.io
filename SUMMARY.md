@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Foundations](webfoundations/web_foundations.md)
    * [HTML](foundations/html/html.md)
+       * DOM
    * [CSS](foundations/css/css.md)
    * [Javascript](foundations/javascript/javascript.md)
        * [es6](foundations/javascript/es6.md)

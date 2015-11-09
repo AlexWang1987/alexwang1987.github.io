@@ -256,7 +256,10 @@ Object.getPrototypeOf(mynameFromliterals) === Object.getPrototypeOf(mynameFromNe
 
 //These two objects we can use them normally, sometimes, we ignore evenly their differences. because they are all objects and share the behavior. they are identical from the prespective of application.
 ```
-
+Here are some cases:
+* var str = 'strvalue'; str can get sharing attributes from String.prototype
+* var arr = []; arr can get sharing attribtes from Array.prototye;
+* ....
 
 
 

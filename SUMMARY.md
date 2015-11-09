@@ -5,6 +5,7 @@
    * [HTML](foundations/html/html.md)
    * [CSS](foundations/css/css.md)
    * [Javascript](foundations/javascript/javascript.md)
+       * es6
    * [Flash](foundations/flash/flash.md)
 * [Graphics](webgraphics/web_graphics.md)
    * [SVG](svg/svg.md)

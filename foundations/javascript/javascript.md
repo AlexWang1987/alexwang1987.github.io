@@ -226,7 +226,7 @@ function Global()
     // Exsistence Type
     0. throw Error('Error type') //Does not exist;
     
-    1. undefined : undefined // Exist, but has never been initialized.
+    1. undefined : undefined //Exist, but has never been initialized.
     2. object
     
     object:

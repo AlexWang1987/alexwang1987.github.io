@@ -240,4 +240,5 @@ function Global()
     * `string`: which is one of most important data type in any languages. just a sequence of characters and it's immutable.
     
     * `function`: which is base block for organization of execution. As I've talked above, function object is a special object which is callable and has many other features.
+    
     * 

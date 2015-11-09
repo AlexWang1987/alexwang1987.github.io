@@ -236,6 +236,7 @@ function Global()
     * null: You can think of it a special value of object. `Garbage collector` can collect those values safely.(carefully `typeof null //object` which is may be a bug). which has its many internal purposes.
     
     * number: You can believe that any value which can be a number or not number(`NaN`). if it's a number which can be divided into many concrete types. like `Infinity, -Infinity, `
+    * 
 
 object:
 1.Number

@@ -248,8 +248,10 @@ function Global()
 In javascript world all values of variables are object, but there are different ways to create them. For example.
 
 ``` javascript
-var myname = 'alexwang'; // typeof myname 'string'
-var myname = new String('alexwang'); // typeof myname 'object',like array.
+var myname = 'alexwang'; // typeof myname == 'string'
+var myname = new String('alexwang'); // typeof myname == 'object',like array.
+
+These two objects we can use them normally, sometimes, we ignore evenly their differences.
 ```
 
 

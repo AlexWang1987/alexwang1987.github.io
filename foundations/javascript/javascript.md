@@ -245,3 +245,27 @@ function Global()
     
 
 ## Object Chain
+In javascript world all values of variables are object, but there are different ways to create them. For example.
+```
+var myname = 'alexwang'; // typeof myname 'string'
+var myname = new String('alexwang'); // typeof myname 'object',like array.
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

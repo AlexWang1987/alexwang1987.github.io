@@ -281,7 +281,7 @@ In OOP world, objects are often created by `new` operator, and all objects inher
     person_01.shareMethod();//alexwang
     person_02.shareMethod();//alexwang
 ```
-
+So, all objects created by some construtor share same prototype, its location is at constructor's prototype property.
 
 
 

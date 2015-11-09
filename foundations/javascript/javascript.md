@@ -220,9 +220,10 @@ In the Global Cotext, here are core objects and values, which are building block
 ```javascript
 function Global()
 {
-    //global varibles
-    1.undefined
-    2.null
-    3.NaN
+    //Data types
+    
+    
+    
+    //Object Behaviors
 }
 ```

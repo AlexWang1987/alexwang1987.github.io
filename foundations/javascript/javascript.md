@@ -225,13 +225,13 @@ function Global()
 }
 ```
 
-// Value Exsistence Problem
-0. throw Error('Error type') //Does not exist;
+// Value Existence
+1. Not Existence
+    > throw Error('Error type and detail messages')
+2. Existence
 
-1. undefined : undefined //Exist, but has never been initialized.
-2. object
-    2. number
-        2.1
+    2.1 `undefined`: has only one value of `undefined`. Exist, but has never been initialized.
+    2.2 object: which is the most usefull data structure in may OOP languages like java, C++, etc. it's like a *hash map*, in javascript, its attributes can be added or deleted dynamically.
 
 object:
 1.Number

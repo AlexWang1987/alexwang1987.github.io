@@ -237,7 +237,7 @@ function Global()
     
     * number: You can believe that any value which can be a number or not number(`NaN`). if it's a number which can be divided into many concrete types. like `Infinity, -Infinity, `
     
-    * function: which is base block for organization of execution. As I've talked above, function object is a special object which can be callable and many other features.
+    * function: which is base block for organization of execution. As I've talked above, function object is a special object which is callable and has many other features.
 
 object:
 1.Number

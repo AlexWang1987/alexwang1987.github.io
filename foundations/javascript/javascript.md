@@ -237,7 +237,7 @@ function Global()
     
     * `number`: You can believe that any value which can be a number or not number(`NaN`). if it's a number which can be divided into many concrete types. like `Infinity, -Infinity, `
     
-    * `string`: which is one of most important data type in any languages. just a sequence of characters.
+    * `string`: which is one of most important data type in any languages. just a sequence of characters and it's immutable.
     
     * `function`: which is base block for organization of execution. As I've talked above, function object is a special object which is callable and has many other features.
     * 

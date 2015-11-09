@@ -289,4 +289,3 @@ So, all objects created by some constructor share same prototype, its location i
 
 
 
-

@@ -261,7 +261,8 @@ Here are some cases:
 * var arr = []; arr can get sharing attribtes from Array.prototye;
 * ....
 
-In OOP world, objects are often created by `new` operator, and all objects inherite parental attributes from its `Class`, which has the same name of its constructor. which is a bit of confusing from freshes. all objects are not alone, they are all chained up to its top `Object.prototype`,
+In OOP world, objects are often created by `new` operator, and all objects inherite parental attributes from its `Class`, which has the same name of its constructor. which is a bit of confusing from freshes. all objects are not alone, they are all chained up to its top `Object.prototype`, so,`Object.getPrototypeOf(Object.prototype)
+null`.
 ```javascript
     function Person()
     {

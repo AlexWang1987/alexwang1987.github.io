@@ -253,8 +253,10 @@ var mynameFromNew = new String('alexwang'); // typeof myname == 'object',like ar
 
 Object.getPrototypeOf(mynameFromliterals) === Object.getPrototypeOf(mynameFromNew) // true, see!, they are seem,but from different origins.
 
-//These two objects we can use them normally, sometimes, we ignore evenly their differences. because they are all objects and share the behavior.
+//These two objects we can use them normally, sometimes, we ignore evenly their differences. because they are all objects and share the behavior. they are identical from application prespective.
 ```
+
+
 
 
 

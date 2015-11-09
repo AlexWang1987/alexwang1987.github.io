@@ -217,3 +217,9 @@ function step1()
 Simply Speaking, There just a tree in javascript engine. **global** is at top of it, also act as **top function scope**, all code are wrapped in it. because of **Function Scope Chain**, All Object mounted in the tree are accessible. It also easy influenced by `var` declaration.
 
 In the Global Cotext, here are core objects and values, which are building blocks of javascript.
+```javascript
+function Global()
+{
+    
+}
+```

@@ -235,6 +235,8 @@ function Global()
 
     * `null`: You can think of it a special value of object. `Garbage collector` can collect those values safely.(carefully `typeof null //object` which is may be a bug). which has its many internal purposes.
     
+    * `boolean`: which is very simple only and has only two values `true`,`false`.
+    
     * `number`: You can believe that any value which can be a number or not number(`NaN`). if it's a number which can be divided into many concrete types. like `Infinity, -Infinity, `
     
     * `string`: which is one of most important data type in any languages. just a sequence of characters and it's immutable.

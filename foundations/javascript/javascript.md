@@ -269,10 +269,3 @@ Object.getPrototypeOf(mynameFromliterals) === Object.getPrototypeOf(mynameFromNe
 
 
 
-
-
-
-
-
-
-

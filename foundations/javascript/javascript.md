@@ -244,7 +244,7 @@ function Global()
     * `function`: which is base block for organization of execution. As I've talked above, function object is a special object which is callable and has many other features.
     
 
-## Object Chain
+## Object Prototype Chain
 In javascript world all values of variables are object, but there are different ways to create them. For example.
 
 ``` javascript

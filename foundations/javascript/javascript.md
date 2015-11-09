@@ -221,8 +221,10 @@ In the Global Cotext, here are core objects and values, which are building block
 function Global()
 {
     //Data types
-    1.undefined : undefined // Exsistence
-    2.null // the thing does exist but empty value.
+    undefined : undefined // Exsistence
+    
+    //-------------------------------------
+    object: //
     1.Number
         * global varibles: NaN Infinity 
     

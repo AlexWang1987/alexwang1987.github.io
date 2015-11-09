@@ -269,7 +269,8 @@ In OOP world, objects are often created by `new` operator, and all objects inher
         this.passwd = '******';
     }
     
-    var person = new Person();
+    var person_01 = new Person();
+    var person_02 = new Person();
 ```
 
 

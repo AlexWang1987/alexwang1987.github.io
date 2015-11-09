@@ -243,4 +243,5 @@ function Global()
     
     * `function`: which is base block for organization of execution. As I've talked above, function object is a special object which is callable and has many other features.
     
-    * 
+
+

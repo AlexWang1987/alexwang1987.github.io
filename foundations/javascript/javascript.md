@@ -151,7 +151,7 @@ setTimeout(function myturn()
 
 Event loop model is never block, pretty proper for `concurrence` and `Event-Driven programming` in back-end environment. like `nodejs platform`.
 
-## How Javascript is getting constructed and bootstraped.
+## Bootstraped
 When A piece code of JS loaded into Javascript Engine, here is what happens.
 
 ```javascript
@@ -212,3 +212,6 @@ function step1()
     console.log('step1');
 }
 ```
+## Global / GlobalContext
+
+Simply Speaking, There just a tree in javascript engine. **global** is at top of it, also act as **top function scope**, all code are wrapped it. because of **Function Scope Chain**, All Object mounted in the tree are accessable.  

@@ -272,8 +272,17 @@ In OOP world, objects are often created by `new` operator, and all objects inher
     var person_01 = new Person();
     var person_02 = new Person();
     
-    Person.prototype // prototype is where they share libaray codes.
+    // prototype is where they share libaray codes.
+    Person.prototype.shareMethod = function()
+    {  
+        console.log(this.name);
+    }
+
+    person_01.shareMethod();//alexwang
+    person_02.shareMethod();//alexwang
 ```
+
+
 
 
 

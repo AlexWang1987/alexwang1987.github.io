@@ -269,3 +269,5 @@ var myname = new String('alexwang'); // typeof myname 'object',like array.
 
 
 
+
+

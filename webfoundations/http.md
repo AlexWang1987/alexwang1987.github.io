@@ -99,7 +99,9 @@ The internet itself is based on ip and tcp protocols. so network devices can tal
 
 Once the TCP connection is established, messages that are flow in this channel will never be lost, damaged, or received out of order.
 
+let talk about IP protocol at following section: 
 
+## IP Address & Port
 
 
 

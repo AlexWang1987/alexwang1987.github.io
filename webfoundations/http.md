@@ -53,6 +53,7 @@ Every **HTTP Response** must come back with a status code which is a tree-digit 
     1.  KV Pairs which separated by new line.
 3.  **Body**
     1.  add new blank line
+    2.  any kind of data.
 
 
 

@@ -31,7 +31,10 @@ Here are the most commonly used **commands(add,delete,update,select,get-descript
 | POST | save my resource  |
 | HEAD | give me description of the named resource  |
 
-## Status Codes
+## Status Codes(HTTP Response)
+
+Every **HTTP Response** must come back with a status code which is a tree-digit numeric code.
+
 
 
 

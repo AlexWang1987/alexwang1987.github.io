@@ -95,7 +95,9 @@ UDP features:
 2. unordered arrival
 3. divided data package and send efficiently.
 
-The internet itself is based on ip and tcp protocols. so network devices can talk to each other and deliver datapacket efficiently.
+The internet itself is based on ip and tcp protocols. so network devices can talk to each other and deliver data-packet in highly performance.
+
+Once the TCP connection is established, messages that are flow in this channel will never be lost, damaged, or received out of order.
 
 
 

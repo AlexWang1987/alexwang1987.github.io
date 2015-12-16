@@ -37,7 +37,7 @@ Every **HTTP Response** must come back with a status code which is a tree-digit 
 
 | HTTP SC | Description |
 | -- | -- |
-| 200 | named resource found and sent |
+| 200 | named resource was found and retrieved back |
 | PUT | save my data into the named resource |
 | DELETE | delete the named resource |
 | POST | save my resource  |

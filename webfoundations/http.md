@@ -17,5 +17,8 @@ like `images/jepg`,`images/png`,`text/html`,`text/plain`,`video/mp4`,etc.
 URI(Uniform Resource Identifier) which is unique to identify a resource in the web server. such as, `http://www.alexwang.com/logo.png`,This is a typical URL(Uniform Resource Locator), which clearly describe the scheme(`http://)`,server address(`www.alexwang.com`),local resource path(`/logo.png`). Almost every URI is a URL. **URN**(Uniform Resource Name) is still not widely adopted yet.
 
 ## Transactions
+**Http Request**,**Http Response**, they are encapsulated into the **Http message**
+
+
 
 

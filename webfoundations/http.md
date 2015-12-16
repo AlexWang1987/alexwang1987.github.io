@@ -46,7 +46,7 @@ Every **HTTP Response** must come back with a status code which is a tree-digit 
 
 **HTTP Request Message** and
 **HTTP Response Message** have similar message format, and formatted in the same way. They consist of three parts, 
-1.  **Start line**
+1.  **Start line(Command line)**
     1.  HTTP Request: what command to send
     2.  HTTP Response: what happened for a response.
 2.  **Header Fields**
@@ -54,6 +54,7 @@ Every **HTTP Response** must come back with a status code which is a tree-digit 
 3.  **Body**
     1.  add new blank line
     2.  any kind of data with any format.
+
 
 
 

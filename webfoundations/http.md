@@ -105,6 +105,7 @@ let talk about IP protocol at following section:
 
 HTTP packet is enclosed in TCP layer and encapsulated by IP layer eventually.
 
-
+Here is a complete way when we navigate to `www.alexwang.com`
+1.  the browser extracts host name from the URI.
 
 

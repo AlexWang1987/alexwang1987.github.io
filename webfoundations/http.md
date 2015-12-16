@@ -65,7 +65,22 @@ Accept-language: en,zh-cn
 name=alexwang&pwd=321432
 ```
 
+Here is a HTTP Response Message Demo.
+```html
+HTTP/1.1 200 Ok you win baby!
+Date: Sun, 23 Nov 2015 12:30:23 GMT
+Server: Apache/1.3 (Ubutu)
+Last-modified: Tue, 08 Sep 2015 08:32:59 GMT
+Content-type: text/html
+Content-length: 2333
 
+<html>
+    <head></head>
+    <body>
+        <h1>Hello AlexWang</h1>
+    </body>
+</html>
+```
 
 
 

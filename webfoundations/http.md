@@ -31,6 +31,7 @@ Here are the most commonly used **commands(add,delete,update,select,get-descript
 | POST | save my resource  |
 | HEAD | give me description of the named resource  |
 
+## Status Codes
 
 
 

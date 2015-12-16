@@ -39,7 +39,7 @@ Every **HTTP Response** must come back with a status code which is a tree-digit 
 | -- | -- |
 | 200 | named resource was found and its data was retrieved back as well|
 | 302 | Redirect, go to this URI, which has the same resource you desired |
-| DELETE | delete the named resource |
+| 404 | can not found the named resourced |
 | POST | save my resource  |
 | HEAD | give me description of the named resource  |
 

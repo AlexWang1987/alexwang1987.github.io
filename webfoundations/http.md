@@ -21,7 +21,7 @@ Client(**Http Request**)<-> Server(**Http Response**) they are all speaks HTTP l
 
 ## HTTP Methods (commands)
 
-Here are the most commonly used **commands**
+Here are the most commonly used **commands(add,delete,update,select,get-description)**
 
 | Method | Description |
 | -- | -- |

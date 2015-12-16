@@ -42,6 +42,7 @@ Every **HTTP Response** must come back with a status code which is a tree-digit 
 | 404 | can not found the named resourced |
 
 ## HTTP Message
+**HTTP Message** are just plain text, line-oriented sequence of characters.
 
 
 

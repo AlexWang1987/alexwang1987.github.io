@@ -19,7 +19,14 @@ URI(Uniform Resource Identifier) which is unique to identify a resource in the w
 ## Transactions
 Client(**Http Request**)<-> Server(**Http Response**) they are all speaks HTTP language, and the messages they are speaking are formatted and encapsulated into **Http message**.
 
-## HTTP Methods
+## HTTP Methods (commands)
+
+| Method | Description |
+| -- | -- |
+| GET | give me the named resource |
+| PUT | save my data into the named resource |
+| DELETE | delete the named resource |
+| POST | save my resource  |
 
 
 

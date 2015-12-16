@@ -33,7 +33,15 @@ Here are the most commonly used **commands(add,delete,update,select,get-descript
 
 ## Status Codes(HTTP Response)
 
-Every **HTTP Response** must come back with a status code which is a tree-digit numeric code to indicate if the **HTTP Request** successed.
+Every **HTTP Response** must come back with a status code which is a tree-digit numeric code to indicate if the **HTTP Request** succeeded.
+
+| HTTP SC | Description |
+| -- | -- |
+| 200 | named resource found and sent |
+| PUT | save my data into the named resource |
+| DELETE | delete the named resource |
+| POST | save my resource  |
+| HEAD | give me description of the named resource  |
 
 
 

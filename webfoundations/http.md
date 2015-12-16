@@ -27,7 +27,7 @@ Client(**Http Request**)<-> Server(**Http Response**) they are all speaks HTTP l
 | PUT | save my data into the named resource |
 | DELETE | delete the named resource |
 | POST | save my resource  |
-
+| HEAD | give me description of the named resource  |
 
 
 

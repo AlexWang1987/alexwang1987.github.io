@@ -41,6 +41,8 @@ Every **HTTP Response** must come back with a status code which is a tree-digit 
 | 302 | Redirect, go to this URI, which has the same resource you desired |
 | 404 | can not found the named resourced |
 
+## HTTP Message
+
 
 
 

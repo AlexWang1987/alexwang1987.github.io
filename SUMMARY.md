@@ -9,6 +9,7 @@
        * [es6](foundations/javascript/es6.md)
        * [window](foundations/javascript/window.md)
    * [Flash](foundations/flash/flash.md)
+   * HTTP
 * [Graphics](webgraphics/web_graphics.md)
    * [SVG](svg/svg.md)
    * [WebGL](webgl/webgl.md)

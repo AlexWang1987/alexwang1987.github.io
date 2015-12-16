@@ -7,6 +7,9 @@ Web server is a piece of software which speaks HTTP protocol, and one of most im
 ## What resources a web server provide with
 Theoretically, Web server can provide any information through HTTP protocol, but here are some common types of static resources.`html`,`jpeg`,`png`,`javascript`,`css`,`video`,`audios`,`pdf`,ect. what about dynamic resources?, like the data retrieved from databases or other places. Web server also hold programs that execute on demand. They are just  running in background, without having to delivering to clients. 
 
+## MediaTypes
+
+Because may resources that are stored in the web server, It's necessary to identify what types they are when they are transfered.
 
 
 

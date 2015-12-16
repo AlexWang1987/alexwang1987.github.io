@@ -21,6 +21,8 @@ Client(**Http Request**)<-> Server(**Http Response**) they are all speaks HTTP l
 
 ## HTTP Methods (commands)
 
+here are the most commonly used **commands**
+
 | Method | Description |
 | -- | -- |
 | GET | give me the named resource |
@@ -28,6 +30,8 @@ Client(**Http Request**)<-> Server(**Http Response**) they are all speaks HTTP l
 | DELETE | delete the named resource |
 | POST | save my resource  |
 | HEAD | give me description of the named resource  |
+
+
 
 
 

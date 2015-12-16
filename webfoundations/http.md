@@ -12,7 +12,8 @@ Theoretically, Web server can provide any information through HTTP protocol, but
 Because many resources that are stored in the web server, It's necessary to identify what types they are when they are being transferred.
 like `images/jepg`,`images/png`,`text/html`,`text/plain`,`video/mp4`,etc.
 
+## URIs
 
-
+URI(Uniform Resource Identifier) which is unique to identify a resource in the web server. such as, `http://www.alexwang.com/logo.png`,
 
 

@@ -9,6 +9,6 @@ Unstrictly, you can say AS3 is also javascript, which is a great implementation 
 
 ## How about the future of AS3.
 
-Just in my opinion, It's not a technical question. Because of many failure devisions made by Adobe corporation, it's abvious that Flash techologies has lost its strength on mobile field.
+Just in my opinion, It's not a technical question. Because of many failure devisions made by Adobe Corporation, it's abvious that Flash techologies has lost its strength on mobile field. As a programmer, One of our skills to identify what technical solution that is efficient for a specific problem. Adobe As3 is still worth to master because its complete workflow, sophisticated plateform,and well-round ecosystem.
 
 

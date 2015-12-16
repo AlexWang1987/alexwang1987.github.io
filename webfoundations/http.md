@@ -9,7 +9,7 @@ Theoretically, Web server can provide any information through HTTP protocol, but
 
 ## MediaTypes
 
-Because may resources that are stored in the web server, It's necessary to identify what types they are and when to transferred.
+Because many resources that are stored in the web server, It's necessary to identify what types they are and when to transferred.
 
 
 

@@ -90,6 +90,10 @@ TCP features:
 3. undivided data stream
 
 there are another protocol UDP, which is great alternative, sometimes pretty useful for specific fields.
+UDP features:
+1. data may be dismissed.
+2. unordered arrival
+3. divided data package and send efficiently.
 
 
 

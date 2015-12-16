@@ -103,6 +103,7 @@ let talk about IP protocol at following section:
 
 ## IP Address & Port
 
+HTTP packet is enclosed in TCP layer and encapsulated by IP layer eventually.
 
 
 

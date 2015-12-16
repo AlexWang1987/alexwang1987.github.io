@@ -82,8 +82,13 @@ Content-length: 2333
 </html>
 ```
 
-## TCP(Transmission Control Protocol)/IP
+## TCP(Transmission Control Protocol)/IP(Internet Protocol)
 
+TCP features:
+1. Error-free data transportation
+2. orderd delivery
+3. undivided data stream
+UDP
 
 
 

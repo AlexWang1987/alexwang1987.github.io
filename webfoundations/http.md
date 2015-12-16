@@ -55,7 +55,15 @@ Every **HTTP Response** must come back with a status code which is a tree-digit 
 3.  **Body**
     1.  any kind of data with any format.
 
+Here is a HTTP Request Message Demo.
+```http
+GET /alexwang/logo.png HTTP/1.1
+Host: www.alexwang.com
+Accept: text/html,image/png
+Accept-language: en,zh-cn
 
+name=alexwang&pwd=321432
+```
 
 
 

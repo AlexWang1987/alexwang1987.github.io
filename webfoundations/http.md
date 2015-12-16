@@ -19,6 +19,9 @@ URI(Uniform Resource Identifier) which is unique to identify a resource in the w
 ## Transactions
 Client(**Http Request**)<-> Server(**Http Response**) they are all speaks HTTP language, and the messages they are speaking are formatted and encapsulated into **Http message**.
 
+## HTTP Methods
+
+
 
 
 

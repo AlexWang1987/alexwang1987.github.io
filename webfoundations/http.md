@@ -88,7 +88,9 @@ TCP features:
 1. Error-free data transportation
 2. orderd delivery
 3. undivided data stream
-UDP
+
+there are another protocol UDP, which is great alternative, sometimes pretty useful for specific fields.
+
 
 
 

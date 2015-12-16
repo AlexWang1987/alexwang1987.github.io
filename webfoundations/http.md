@@ -51,6 +51,8 @@ Every **HTTP Response** must come back with a status code which is a tree-digit 
     2.  HTTP Response: what happened for a response.
 2.  **Header Fields**
     1.  KV Pairs which separated by new line.
+3.  **Body**
+    1.  add new blank line
 
 
 

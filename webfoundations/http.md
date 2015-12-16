@@ -14,7 +14,7 @@ like `images/jepg`,`images/png`,`text/html`,`text/plain`,`video/mp4`,etc.
 
 ## URIs(URLs,URNs).
 
-URI(Uniform Resource Identifier) which is unique to identify a resource in the web server. such as, `http://www.alexwang.com/logo.png`,This is a typical URL which clearly describe the protocol,server,local resource.
+URI(Uniform Resource Identifier) which is unique to identify a resource in the web server. such as, `http://www.alexwang.com/logo.png`,This is a typical URL(Uniform Resource Locator), which clearly describe the protocol,server,local resource.
 
 
 

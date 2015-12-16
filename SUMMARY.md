@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Foundations](webfoundations/web_foundations.md)
+   * [HTTP](webfoundations/http.md)
    * [HTML](foundations/html/html.md)
        * [DOM](foundations/html/dom.md)
    * [CSS](foundations/css/css.md)
@@ -9,7 +10,6 @@
        * [es6](foundations/javascript/es6.md)
        * [window](foundations/javascript/window.md)
    * [Flash](foundations/flash/flash.md)
-   * [HTTP](webfoundations/http.md)
 * [Graphics](webgraphics/web_graphics.md)
    * [SVG](svg/svg.md)
    * [WebGL](webgl/webgl.md)

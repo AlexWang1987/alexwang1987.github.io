@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Foundations](webfoundations/web_foundations.md)
-   * [HTTP](webfoundations/http.md)
+   * [WebFoundation](webfoundations/http.md)
    * [HTML](foundations/html/html.md)
        * [DOM](foundations/html/dom.md)
    * [CSS](foundations/css/css.md)

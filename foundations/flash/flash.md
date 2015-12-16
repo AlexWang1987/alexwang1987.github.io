@@ -5,4 +5,4 @@ Flash is an excellent addition to HTML5 ,which was born at may years ago. Flash 
 
 ##Actionscript3
 
-Unstrictly, you can say AS3 is also javascript, which is a great implementation 
+Unstrictly, you can say AS3 is also javascript, which is a great implementation of ES4 in sevaral years ago.

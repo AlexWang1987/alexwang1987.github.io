@@ -44,7 +44,11 @@ Every **HTTP Response** must come back with a status code which is a tree-digit 
 ## HTTP Message
 **HTTP Message** are just plain text, **line-oriented** sequence of characters. All traffic messages are readable when we are using firedebug or Chrome inspector.
 
-**HTTP Request Message**
+**HTTP Request Message** and
+**HTTP Response Message** have similar message format, and formatted in the same way. They consist of three parts, 
+1.  **Start line**
+    1.  HTTP Request: what command to send
+    2.  HTTP Response: what happened for a response.
 
 
 
